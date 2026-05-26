@@ -1,0 +1,30 @@
+[
+  {
+    "id": "acf",
+    "name": "Almeida Corrigida Fiel",
+    "abbr": "ACF",
+    "lang": "pt-BR",
+    "group": "Português"
+  },
+  {
+    "id": "nvi",
+    "name": "Nova Versão Internacional",
+    "abbr": "NVI",
+    "lang": "pt-BR",
+    "group": "Português"
+  },
+  {
+    "id": "aa",
+    "name": "Almeida Atualizada",
+    "abbr": "AA",
+    "lang": "pt-BR",
+    "group": "Português"
+  },
+  {
+    "id": "kjv",
+    "name": "King James Version",
+    "abbr": "KJV",
+    "lang": "en",
+    "group": "English"
+  }
+]
