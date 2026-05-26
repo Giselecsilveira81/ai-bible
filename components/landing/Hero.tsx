@@ -40,7 +40,7 @@ export default function Hero() {
         }}
       />
 
-      <div className="container-page grid lg:grid-cols-[1fr_1fr] gap-8 lg:gap-6 items-center min-h-[80vh]">
+      <div className="container-page grid lg:grid-cols-[0.85fr_1.15fr] gap-8 lg:gap-10 items-center min-h-[80vh]">
         {/* Coluna texto */}
         <div>
           <div className="flex flex-wrap gap-2 mb-8">
@@ -100,13 +100,13 @@ export default function Hero() {
 
         {/* Coluna mockup */}
         <div className="hero-fade fade-up flex justify-center lg:justify-end">
-          <div className="relative w-full" style={{ maxWidth: 750 }}>
+          <div className="relative w-full" style={{ maxWidth: 920 }}>
             <Image
               src="/landing/hero-visual.jpg"
               alt="AI Bible app mockup"
-              width={1500}
-              height={1500}
-              sizes="(max-width: 1024px) 100vw, 50vw"
+              width={1600}
+              height={1600}
+              sizes="(max-width: 1024px) 100vw, 58vw"
               className="w-full h-auto"
               priority
             />
