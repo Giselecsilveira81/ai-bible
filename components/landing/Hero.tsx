@@ -99,13 +99,14 @@ export default function Hero() {
         </div>
 
         {/* Coluna mockup */}
-        <div className="hero-fade fade-up">
-          <div className="relative">
+        <div className="hero-fade fade-up flex justify-center lg:justify-end">
+          <div className="relative w-full" style={{ maxWidth: 750 }}>
             <Image
               src="/landing/hero-visual.jpg"
               alt="AI Bible app mockup"
-              width={800}
-              height={800}
+              width={1500}
+              height={1500}
+              sizes="(max-width: 1024px) 100vw, 50vw"
               className="w-full h-auto"
               priority
             />
