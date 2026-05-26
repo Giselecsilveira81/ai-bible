@@ -65,9 +65,25 @@ export default function MarketingNav() {
             <span className="text-ink">PT</span>
             <span className="mx-1">/</span>EN
           </button>
-          <Link href="/app" className="btn-primary btn-sm">
-            <span className="btn-dot" aria-hidden />
-            Abrir app
+          <Link
+            href="/app"
+            className="inline-flex items-center gap-2 px-5 py-2 rounded-full text-sm font-medium transition-all"
+            style={{
+              border: "1.5px solid #B8960C",
+              color: "#B8960C",
+            }}
+            onMouseEnter={(e) => {
+              (e.currentTarget as HTMLAnchorElement).style.background =
+                "#B8960C";
+              (e.currentTarget as HTMLAnchorElement).style.color = "#fff";
+            }}
+            onMouseLeave={(e) => {
+              (e.currentTarget as HTMLAnchorElement).style.background =
+                "transparent";
+              (e.currentTarget as HTMLAnchorElement).style.color = "#B8960C";
+            }}
+          >
+            Baixar o App
           </Link>
         </div>
 

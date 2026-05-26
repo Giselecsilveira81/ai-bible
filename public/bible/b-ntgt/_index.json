@@ -1,0 +1,218 @@
+[
+  {
+    "abbrev": "mt",
+    "name": "ΚΑΤΑ ΜΑΘΘΑΙΟΝ",
+    "slug": "mateus",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 40
+  },
+  {
+    "abbrev": "mc",
+    "name": "ΚΑΤΑ ΜΑΡΚΟΝ",
+    "slug": "marcos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 41
+  },
+  {
+    "abbrev": "lc",
+    "name": "ΚΑΤΑ ΛΟΥΚΑΝ",
+    "slug": "lucas",
+    "chapters": 24,
+    "testament": "NT",
+    "bollsBookId": 42
+  },
+  {
+    "abbrev": "jo",
+    "name": "ΚΑΤΑ ΙΩΑΝΗΝ",
+    "slug": "joao",
+    "chapters": 21,
+    "testament": "NT",
+    "bollsBookId": 43
+  },
+  {
+    "abbrev": "atos",
+    "name": "ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ",
+    "slug": "atos",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 44
+  },
+  {
+    "abbrev": "rm",
+    "name": "ΠΡΟΣ ΡΩΜΑΙΟΥΣ",
+    "slug": "romanos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 45
+  },
+  {
+    "abbrev": "1co",
+    "name": "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α",
+    "slug": "1-corintios",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 46
+  },
+  {
+    "abbrev": "2co",
+    "name": "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β",
+    "slug": "2-corintios",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 47
+  },
+  {
+    "abbrev": "gl",
+    "name": "ΠΡΟΣ ΓΑΛΑΤΑΣ",
+    "slug": "galatas",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 48
+  },
+  {
+    "abbrev": "ef",
+    "name": "ΠΡΟΣ ΕΦΕΣΙΟΥΣ",
+    "slug": "efesios",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 49
+  },
+  {
+    "abbrev": "fp",
+    "name": "ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ",
+    "slug": "filipenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 50
+  },
+  {
+    "abbrev": "cl",
+    "name": "ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ",
+    "slug": "colossenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 51
+  },
+  {
+    "abbrev": "1ts",
+    "name": "ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α",
+    "slug": "1-tessalonicenses",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 52
+  },
+  {
+    "abbrev": "2ts",
+    "name": "ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β",
+    "slug": "2-tessalonicenses",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 53
+  },
+  {
+    "abbrev": "1tm",
+    "name": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α",
+    "slug": "1-timoteo",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 54
+  },
+  {
+    "abbrev": "2tm",
+    "name": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β",
+    "slug": "2-timoteo",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 55
+  },
+  {
+    "abbrev": "tt",
+    "name": "ΠΡΟΣ ΤΙΤΟΝ",
+    "slug": "tito",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 56
+  },
+  {
+    "abbrev": "fm",
+    "name": "ΠΡΟΣ ΦΙΛΗΜΟΝΑ",
+    "slug": "filemom",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 57
+  },
+  {
+    "abbrev": "hb",
+    "name": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ",
+    "slug": "hebreus",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 58
+  },
+  {
+    "abbrev": "tg",
+    "name": "ΙΑΚΩΒΟΥ",
+    "slug": "tiago",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 59
+  },
+  {
+    "abbrev": "1pe",
+    "name": "ΠΕΤΡΟΥ Α",
+    "slug": "1-pedro",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 60
+  },
+  {
+    "abbrev": "2pe",
+    "name": "ΠΕΤΡΟΥ Β",
+    "slug": "2-pedro",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 61
+  },
+  {
+    "abbrev": "1jo",
+    "name": "ΙΩΑΝΟΥ Α",
+    "slug": "1-joao",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 62
+  },
+  {
+    "abbrev": "2jo",
+    "name": "ΙΩΑΝΟΥ Β",
+    "slug": "2-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 63
+  },
+  {
+    "abbrev": "3jo",
+    "name": "ΙΩΑΝΟΥ Γ",
+    "slug": "3-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 64
+  },
+  {
+    "abbrev": "jd",
+    "name": "ΙΟΥΔΑ",
+    "slug": "judas",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 65
+  },
+  {
+    "abbrev": "ap",
+    "name": "ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΟΥ",
+    "slug": "apocalipse",
+    "chapters": 22,
+    "testament": "NT",
+    "bollsBookId": 66
+  }
+]

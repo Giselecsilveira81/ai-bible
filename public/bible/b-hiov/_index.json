@@ -1,0 +1,530 @@
+[
+  {
+    "abbrev": "gn",
+    "name": "उत्पत्ति",
+    "slug": "genesis",
+    "chapters": 50,
+    "testament": "AT",
+    "bollsBookId": 1
+  },
+  {
+    "abbrev": "ex",
+    "name": "निर्गमन",
+    "slug": "exodo",
+    "chapters": 40,
+    "testament": "AT",
+    "bollsBookId": 2
+  },
+  {
+    "abbrev": "lv",
+    "name": "लैव्यव्यवस्था",
+    "slug": "levitico",
+    "chapters": 27,
+    "testament": "AT",
+    "bollsBookId": 3
+  },
+  {
+    "abbrev": "nm",
+    "name": "गिनती",
+    "slug": "numeros",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 4
+  },
+  {
+    "abbrev": "dt",
+    "name": "व्यवस्थाविवरण",
+    "slug": "deuteronomio",
+    "chapters": 34,
+    "testament": "AT",
+    "bollsBookId": 5
+  },
+  {
+    "abbrev": "js",
+    "name": "यहोशू",
+    "slug": "josue",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 6
+  },
+  {
+    "abbrev": "jz",
+    "name": "न्यायियों",
+    "slug": "juizes",
+    "chapters": 21,
+    "testament": "AT",
+    "bollsBookId": 7
+  },
+  {
+    "abbrev": "rt",
+    "name": "रूत",
+    "slug": "rute",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 8
+  },
+  {
+    "abbrev": "1sm",
+    "name": "शमूएल की पहली पुस्तक",
+    "slug": "1-samuel",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 9
+  },
+  {
+    "abbrev": "2sm",
+    "name": "शमूएल की दूसरी पुस्तक",
+    "slug": "2-samuel",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 10
+  },
+  {
+    "abbrev": "1rs",
+    "name": "राजाओं का वृत्तान्त – पहला भाग",
+    "slug": "1-reis",
+    "chapters": 22,
+    "testament": "AT",
+    "bollsBookId": 11
+  },
+  {
+    "abbrev": "2rs",
+    "name": "राजाओं का वृत्तान्त – दूसरा भाग",
+    "slug": "2-reis",
+    "chapters": 25,
+    "testament": "AT",
+    "bollsBookId": 12
+  },
+  {
+    "abbrev": "1cr",
+    "name": "इतिहास नामक पुस्तक – पहला भाग",
+    "slug": "1-cronicas",
+    "chapters": 29,
+    "testament": "AT",
+    "bollsBookId": 13
+  },
+  {
+    "abbrev": "2cr",
+    "name": "इतिहास नामक पुस्तक – दूसरा भाग",
+    "slug": "2-cronicas",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 14
+  },
+  {
+    "abbrev": "ed",
+    "name": "एज्रा नामक पुस्तक",
+    "slug": "esdras",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 15
+  },
+  {
+    "abbrev": "ne",
+    "name": "नहेम्याह नामक पुस्तक",
+    "slug": "neemias",
+    "chapters": 13,
+    "testament": "AT",
+    "bollsBookId": 16
+  },
+  {
+    "abbrev": "et",
+    "name": "एस्तेर",
+    "slug": "ester",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 17
+  },
+  {
+    "abbrev": "jó",
+    "name": "अय्यूब",
+    "slug": "jo",
+    "chapters": 42,
+    "testament": "AT",
+    "bollsBookId": 18
+  },
+  {
+    "abbrev": "sl",
+    "name": "भजन संहिता",
+    "slug": "salmos",
+    "chapters": 150,
+    "testament": "AT",
+    "bollsBookId": 19
+  },
+  {
+    "abbrev": "pv",
+    "name": "नीतिवचन",
+    "slug": "proverbios",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 20
+  },
+  {
+    "abbrev": "ec",
+    "name": "सभोपदेशक",
+    "slug": "eclesiastes",
+    "chapters": 12,
+    "testament": "AT",
+    "bollsBookId": 21
+  },
+  {
+    "abbrev": "ct",
+    "name": "श्रेष्‍ठगीत",
+    "slug": "canticos",
+    "chapters": 8,
+    "testament": "AT",
+    "bollsBookId": 22
+  },
+  {
+    "abbrev": "is",
+    "name": "यशायाह भविष्यद्वक्‍ता की पुस्तक",
+    "slug": "isaias",
+    "chapters": 66,
+    "testament": "AT",
+    "bollsBookId": 23
+  },
+  {
+    "abbrev": "jr",
+    "name": "यिर्मयाह नामक पुस्तक",
+    "slug": "jeremias",
+    "chapters": 52,
+    "testament": "AT",
+    "bollsBookId": 24
+  },
+  {
+    "abbrev": "lm",
+    "name": "विलापगीत",
+    "slug": "lamentacoes-de-jeremias",
+    "chapters": 5,
+    "testament": "AT",
+    "bollsBookId": 25
+  },
+  {
+    "abbrev": "ez",
+    "name": "यहेजकेल नामक पुस्तक",
+    "slug": "ezequiel",
+    "chapters": 48,
+    "testament": "AT",
+    "bollsBookId": 26
+  },
+  {
+    "abbrev": "dn",
+    "name": "दानिय्येल नामक पुस्तक",
+    "slug": "daniel",
+    "chapters": 12,
+    "testament": "AT",
+    "bollsBookId": 27
+  },
+  {
+    "abbrev": "os",
+    "name": "होशे",
+    "slug": "oseias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 28
+  },
+  {
+    "abbrev": "jl",
+    "name": "योएल",
+    "slug": "joel",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 29
+  },
+  {
+    "abbrev": "am",
+    "name": "आमोस",
+    "slug": "amos",
+    "chapters": 9,
+    "testament": "AT",
+    "bollsBookId": 30
+  },
+  {
+    "abbrev": "ob",
+    "name": "ओबद्याह",
+    "slug": "obadias",
+    "chapters": 1,
+    "testament": "AT",
+    "bollsBookId": 31
+  },
+  {
+    "abbrev": "jn",
+    "name": "योना",
+    "slug": "jonas",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 32
+  },
+  {
+    "abbrev": "mq",
+    "name": "मीका",
+    "slug": "miqueias",
+    "chapters": 7,
+    "testament": "AT",
+    "bollsBookId": 33
+  },
+  {
+    "abbrev": "na",
+    "name": "नहूम",
+    "slug": "naum",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 34
+  },
+  {
+    "abbrev": "hc",
+    "name": "हबक्‍कूक",
+    "slug": "habacuque",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 35
+  },
+  {
+    "abbrev": "sf",
+    "name": "सपन्याह",
+    "slug": "sofonias",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 36
+  },
+  {
+    "abbrev": "ag",
+    "name": "हाग्गै",
+    "slug": "ageu",
+    "chapters": 2,
+    "testament": "AT",
+    "bollsBookId": 37
+  },
+  {
+    "abbrev": "zc",
+    "name": "जकर्याह",
+    "slug": "zacarias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 38
+  },
+  {
+    "abbrev": "ml",
+    "name": "मलाकी",
+    "slug": "malaquias",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 39
+  },
+  {
+    "abbrev": "mt",
+    "name": "मत्ती रचित सुसमाचार",
+    "slug": "mateus",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 40
+  },
+  {
+    "abbrev": "mc",
+    "name": "मरकुस रचित सुसमाचार",
+    "slug": "marcos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 41
+  },
+  {
+    "abbrev": "lc",
+    "name": "लूका रचित सुसमाचार",
+    "slug": "lucas",
+    "chapters": 24,
+    "testament": "NT",
+    "bollsBookId": 42
+  },
+  {
+    "abbrev": "jo",
+    "name": "यूहन्ना रचित सुसमाचार",
+    "slug": "joao",
+    "chapters": 21,
+    "testament": "NT",
+    "bollsBookId": 43
+  },
+  {
+    "abbrev": "atos",
+    "name": "प्रेरितों के कामों का वर्णन",
+    "slug": "atos",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 44
+  },
+  {
+    "abbrev": "rm",
+    "name": "रोमियों के नाम पौलुस प्रेरित की पत्री",
+    "slug": "romanos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 45
+  },
+  {
+    "abbrev": "1co",
+    "name": "कुरिन्थियों के नाम पौलुस प्रेरित की पहली पत्री",
+    "slug": "1-corintios",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 46
+  },
+  {
+    "abbrev": "2co",
+    "name": "कुरिन्थियों के नाम पौलुस प्रेरित की दूसरी पत्री",
+    "slug": "2-corintios",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 47
+  },
+  {
+    "abbrev": "gl",
+    "name": "गलातियों के नाम पौलुस प्रेरित की पत्री",
+    "slug": "galatas",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 48
+  },
+  {
+    "abbrev": "ef",
+    "name": "इफिसियों के नाम पौलुस प्रेरित की पत्री",
+    "slug": "efesios",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 49
+  },
+  {
+    "abbrev": "fp",
+    "name": "फिलिप्पियों के नाम पौलुस प्रेरित की पत्री",
+    "slug": "filipenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 50
+  },
+  {
+    "abbrev": "cl",
+    "name": "कुलुस्सियों के नाम पौलुस प्रेरित की पत्री",
+    "slug": "colossenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 51
+  },
+  {
+    "abbrev": "1ts",
+    "name": "थिस्सलुनीकियों के नाम पौलुस प्रेरित की पहली पत्री",
+    "slug": "1-tessalonicenses",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 52
+  },
+  {
+    "abbrev": "2ts",
+    "name": "थिस्सलुनीकियों के नाम पौलुस प्रेरित की दूसरी पत्री",
+    "slug": "2-tessalonicenses",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 53
+  },
+  {
+    "abbrev": "1tm",
+    "name": "तीमुथियुस के नाम पौलुस प्रेरित की पहली पत्री",
+    "slug": "1-timoteo",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 54
+  },
+  {
+    "abbrev": "2tm",
+    "name": "तीमुथियुस के नाम पौलुस प्रेरित की दूसरी पत्री",
+    "slug": "2-timoteo",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 55
+  },
+  {
+    "abbrev": "tt",
+    "name": "तीतुस के नाम पौलुस प्रेरित की पत्री",
+    "slug": "tito",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 56
+  },
+  {
+    "abbrev": "fm",
+    "name": "फिलेमोन के नाम पौलुस प्रेरित की पत्री",
+    "slug": "filemom",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 57
+  },
+  {
+    "abbrev": "hb",
+    "name": "इब्रानियों के नाम पत्री",
+    "slug": "hebreus",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 58
+  },
+  {
+    "abbrev": "tg",
+    "name": "याकूब की पत्री",
+    "slug": "tiago",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 59
+  },
+  {
+    "abbrev": "1pe",
+    "name": "पतरस की पहली पत्री",
+    "slug": "1-pedro",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 60
+  },
+  {
+    "abbrev": "2pe",
+    "name": "पतरस की दूसरी पत्री",
+    "slug": "2-pedro",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 61
+  },
+  {
+    "abbrev": "1jo",
+    "name": "यूहन्ना की पहली पत्री",
+    "slug": "1-joao",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 62
+  },
+  {
+    "abbrev": "2jo",
+    "name": "यूहन्ना की दूसरी पत्री",
+    "slug": "2-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 63
+  },
+  {
+    "abbrev": "3jo",
+    "name": "यूहन्ना की तीसरी पत्री",
+    "slug": "3-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 64
+  },
+  {
+    "abbrev": "jd",
+    "name": "यहूदा की पत्री",
+    "slug": "judas",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 65
+  },
+  {
+    "abbrev": "ap",
+    "name": "यूहन्ना का प्रकाशितवाक्य",
+    "slug": "apocalipse",
+    "chapters": 22,
+    "testament": "NT",
+    "bollsBookId": 66
+  }
+]

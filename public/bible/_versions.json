@@ -1,5 +1,47 @@
 [
   {
+    "id": "asv",
+    "name": "American Standard Version",
+    "abbr": "ASV",
+    "lang": "en",
+    "group": "English"
+  },
+  {
+    "id": "dra",
+    "name": "Douay-Rheims",
+    "abbr": "DRA",
+    "lang": "en",
+    "group": "English"
+  },
+  {
+    "id": "gnv",
+    "name": "Geneva Bible 1599",
+    "abbr": "GNV",
+    "lang": "en",
+    "group": "English"
+  },
+  {
+    "id": "kjv",
+    "name": "King James Version",
+    "abbr": "KJV",
+    "lang": "en",
+    "group": "English"
+  },
+  {
+    "id": "web",
+    "name": "World English Bible",
+    "abbr": "WEB",
+    "lang": "en",
+    "group": "English"
+  },
+  {
+    "id": "aa",
+    "name": "Almeida Atualizada",
+    "abbr": "AA",
+    "lang": "pt-BR",
+    "group": "Português"
+  },
+  {
     "id": "acf",
     "name": "Almeida Corrigida Fiel",
     "abbr": "ACF",
@@ -14,17 +56,1272 @@
     "group": "Português"
   },
   {
-    "id": "aa",
-    "name": "Almeida Atualizada",
-    "abbr": "AA",
-    "lang": "pt-BR",
-    "group": "Português"
+    "id": "b-afr53",
+    "name": "Afrikaans 1933/1953",
+    "abbr": "AFR53",
+    "lang": "afr",
+    "group": "Afrikaans",
+    "remote": true,
+    "bollsId": "AFR53"
   },
   {
-    "id": "kjv",
-    "name": "King James Version",
-    "abbr": "KJV",
+    "id": "b-svd",
+    "name": "Smith and Van Dyke",
+    "abbr": "SVD",
+    "lang": "ara",
+    "group": "Arabic العربية",
+    "remote": true,
+    "bollsId": "SVD"
+  },
+  {
+    "id": "b-nav",
+    "name": "كتاب الحياة",
+    "abbr": "NAV",
+    "lang": "ara",
+    "group": "Arabic العربية",
+    "remote": true,
+    "bollsId": "NAV"
+  },
+  {
+    "id": "b-cuv",
+    "name": "Chinese Union (Traditional) 和合本",
+    "abbr": "CUV",
+    "lang": "chi",
+    "group": "Chinese 中文",
+    "remote": true,
+    "bollsId": "CUV"
+  },
+  {
+    "id": "b-chisb",
+    "name": "中文思高聖經 ChiSB",
+    "abbr": "ChiSB",
+    "lang": "chi",
+    "group": "Chinese 中文",
+    "remote": true,
+    "bollsId": "ChiSB"
+  },
+  {
+    "id": "b-pcbs",
+    "name": "京委本圣经 - Peking Committee Bible, 1899",
+    "abbr": "PCBS",
+    "lang": "chi",
+    "group": "Chinese 中文",
+    "remote": true,
+    "bollsId": "PCBS"
+  },
+  {
+    "id": "b-pcb",
+    "name": "京委本聖經 - Peking Committee Bible, 1899",
+    "abbr": "PCB",
+    "lang": "chi",
+    "group": "Chinese 中文",
+    "remote": true,
+    "bollsId": "PCB"
+  },
+  {
+    "id": "b-cunps",
+    "name": "新标点和合本 - Chinese Union New Punctuation (Simplified), 1988",
+    "abbr": "CUNPS",
+    "lang": "chi",
+    "group": "Chinese 中文",
+    "remote": true,
+    "bollsId": "CUNPS"
+  },
+  {
+    "id": "b-cunp",
+    "name": "新標點和合本串珠 - Chinese Union New Punctuation Cross References, 1988",
+    "abbr": "CUNP",
+    "lang": "chi",
+    "group": "Chinese 中文",
+    "remote": true,
+    "bollsId": "CUNP"
+  },
+  {
+    "id": "b-csp09",
+    "name": "Ceský studijní preklad",
+    "abbr": "CSP09",
+    "lang": "cze",
+    "group": "Czech Ceský",
+    "remote": true,
+    "bollsId": "CSP09"
+  },
+  {
+    "id": "b-nld",
+    "name": "De Heilige Schrift, Petrus Canisiusvertaling, 1939",
+    "abbr": "NLD",
+    "lang": "dut",
+    "group": "Dutch Nederlands",
+    "remote": true,
+    "bollsId": "NLD"
+  },
+  {
+    "id": "b-hsv17",
+    "name": "Herziene Statenvertaling, 2017",
+    "abbr": "HSV17",
+    "lang": "dut",
+    "group": "Dutch Nederlands",
+    "remote": true,
+    "bollsId": "HSV17"
+  },
+  {
+    "id": "b-svrj",
+    "name": "Statenvertaling Jongbloed-editie (1995)",
+    "abbr": "SVRJ",
+    "lang": "dut",
+    "group": "Dutch Nederlands",
+    "remote": true,
+    "bollsId": "SVRJ"
+  },
+  {
+    "id": "b-dsv",
+    "name": "Statenvertaling met Strong's, 1619",
+    "abbr": "DSV",
+    "lang": "dut",
+    "group": "Dutch Nederlands",
+    "remote": true,
+    "bollsId": "DSV"
+  },
+  {
+    "id": "b-amp",
+    "name": "Amplified Bible, 2015",
+    "abbr": "AMP",
     "lang": "en",
-    "group": "English"
+    "group": "English",
+    "remote": true,
+    "bollsId": "AMP"
+  },
+  {
+    "id": "b-auv",
+    "name": "An Understandable Version, 1995",
+    "abbr": "AUV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "AUV"
+  },
+  {
+    "id": "b-lbp",
+    "name": "Aramaic Of The Peshitta: Lamsa, 1933",
+    "abbr": "LBP",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "LBP"
+  },
+  {
+    "id": "b-csb17",
+    "name": "Christian Standard Bible, 2017",
+    "abbr": "CSB17",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "CSB17"
+  },
+  {
+    "id": "b-ceb",
+    "name": "Common English Bible, 2011",
+    "abbr": "CEB",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "CEB"
+  },
+  {
+    "id": "b-cevd",
+    "name": "Contemporary English Version, 2006 (with Apocrypha)",
+    "abbr": "CEVD",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "CEVD"
+  },
+  {
+    "id": "b-drb",
+    "name": "Douay Rheims Bible",
+    "abbr": "DRB",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "DRB"
+  },
+  {
+    "id": "b-erv",
+    "name": "Easy-to-Read Version, 2006",
+    "abbr": "ERV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "ERV"
+  },
+  {
+    "id": "b-esv",
+    "name": "English Standard Version 2001, 2016",
+    "abbr": "ESV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "ESV"
+  },
+  {
+    "id": "b-lxxe",
+    "name": "English version of the Septuagint Bible, 1851",
+    "abbr": "LXXE",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "LXXE"
+  },
+  {
+    "id": "b-gnt",
+    "name": "Good News Bible, 1976",
+    "abbr": "GNT",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "GNT"
+  },
+  {
+    "id": "b-gntd",
+    "name": "Good News Translation (US Version), 2001",
+    "abbr": "GNTD",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "GNTD"
+  },
+  {
+    "id": "b-isv",
+    "name": "International Standard Version, 2011",
+    "abbr": "ISV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "ISV"
+  },
+  {
+    "id": "b-lsv",
+    "name": "Literal Standard Version",
+    "abbr": "LSV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "LSV"
+  },
+  {
+    "id": "b-mev",
+    "name": "Modern English Version",
+    "abbr": "MEV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "MEV"
+  },
+  {
+    "id": "b-nabre",
+    "name": "New American Bible (Revised Edition)",
+    "abbr": "NABRE",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NABRE"
+  },
+  {
+    "id": "b-nasb",
+    "name": "New American Standard Bible (1995)",
+    "abbr": "NASB",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NASB"
+  },
+  {
+    "id": "b-net",
+    "name": "New English Translation, 2007",
+    "abbr": "NET",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NET"
+  },
+  {
+    "id": "b-niv",
+    "name": "New International Version, 1984",
+    "abbr": "NIV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NIV"
+  },
+  {
+    "id": "b-niv2011",
+    "name": "New International Version, 2011",
+    "abbr": "NIV2011",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NIV2011"
+  },
+  {
+    "id": "b-njb1985",
+    "name": "New Jerusalem Bible, 1985",
+    "abbr": "NJB1985",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NJB1985"
+  },
+  {
+    "id": "b-nkjv",
+    "name": "New King James Version, 1982",
+    "abbr": "NKJV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NKJV"
+  },
+  {
+    "id": "b-nlv",
+    "name": "New Life Version, 1969",
+    "abbr": "NLV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NLV"
+  },
+  {
+    "id": "b-nlt",
+    "name": "New Living Translation, 2015",
+    "abbr": "NLT",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NLT"
+  },
+  {
+    "id": "b-nrsvce",
+    "name": "New Revised Standard Version Catholic Edition, 1993",
+    "abbr": "NRSVCE",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "NRSVCE"
+  },
+  {
+    "id": "b-rsv",
+    "name": "Revised Standard Version (1952)",
+    "abbr": "RSV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "RSV"
+  },
+  {
+    "id": "b-rsv2ce",
+    "name": "Revised Standard Version Catholic Edition",
+    "abbr": "RSV2CE",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "RSV2CE"
+  },
+  {
+    "id": "b-spe",
+    "name": "Samaritan Pentateuch in English, 2013",
+    "abbr": "SPE",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "SPE"
+  },
+  {
+    "id": "b-cjb",
+    "name": "The Complete Jewish Bible (1998)",
+    "abbr": "CJB",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "CJB"
+  },
+  {
+    "id": "b-bsb",
+    "name": "The Holy Bible, Berean Standard Bible",
+    "abbr": "BSB",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "BSB"
+  },
+  {
+    "id": "b-lsb",
+    "name": "The Legacy Standard Bible",
+    "abbr": "LSB",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "LSB"
+  },
+  {
+    "id": "b-msg",
+    "name": "The Message, 2002",
+    "abbr": "MSG",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "MSG"
+  },
+  {
+    "id": "b-ts2009",
+    "name": "The Scriptures 2009",
+    "abbr": "TS2009",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "TS2009"
+  },
+  {
+    "id": "b-tlv",
+    "name": "Tree of Life Version",
+    "abbr": "TLV",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "TLV"
+  },
+  {
+    "id": "b-wpnt",
+    "name": "Wilbur Pickering’s New Testament",
+    "abbr": "WPNT",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "WPNT"
+  },
+  {
+    "id": "b-ylt",
+    "name": "Young's Literal Translation (1898)",
+    "abbr": "YLT",
+    "lang": "en",
+    "group": "English",
+    "remote": true,
+    "bollsId": "YLT"
+  },
+  {
+    "id": "b-pov",
+    "name": "Persian Old Version",
+    "abbr": "POV",
+    "lang": "far",
+    "group": "Farsi فارسی",
+    "remote": true,
+    "bollsId": "POV"
+  },
+  {
+    "id": "b-facb",
+    "name": "کتاب مقدس، ترجمه تفسیری Farsi Contemporary Bible",
+    "abbr": "FACB",
+    "lang": "far",
+    "group": "Farsi فارسی",
+    "remote": true,
+    "bollsId": "FACB"
+  },
+  {
+    "id": "b-frlsg",
+    "name": "Bible Segond 1910",
+    "abbr": "FRLSG",
+    "lang": "fre",
+    "group": "French Français",
+    "remote": true,
+    "bollsId": "FRLSG"
+  },
+  {
+    "id": "b-frdby",
+    "name": "la Bible de Darby, 1890",
+    "abbr": "FRDBY",
+    "lang": "fre",
+    "group": "French Français",
+    "remote": true,
+    "bollsId": "FRDBY"
+  },
+  {
+    "id": "b-bds",
+    "name": "La Bible du Semeur, 2015",
+    "abbr": "BDS",
+    "lang": "fre",
+    "group": "French Français",
+    "remote": true,
+    "bollsId": "BDS"
+  },
+  {
+    "id": "b-nbs",
+    "name": "Nouvelle Bible Segond, 2002",
+    "abbr": "NBS",
+    "lang": "fre",
+    "group": "French Français",
+    "remote": true,
+    "bollsId": "NBS"
+  },
+  {
+    "id": "b-frpdv17",
+    "name": "Parole de Vie 2017",
+    "abbr": "FRPDV17",
+    "lang": "fre",
+    "group": "French Français",
+    "remote": true,
+    "bollsId": "FRPDV17"
+  },
+  {
+    "id": "b-elb",
+    "name": "Elberfelder Bibel, 1871",
+    "abbr": "ELB",
+    "lang": "ger",
+    "group": "German Deutsch",
+    "remote": true,
+    "bollsId": "ELB"
+  },
+  {
+    "id": "b-hfa",
+    "name": "Hoffnung für Alle, 2015",
+    "abbr": "HFA",
+    "lang": "ger",
+    "group": "German Deutsch",
+    "remote": true,
+    "bollsId": "HFA"
+  },
+  {
+    "id": "b-lut",
+    "name": "Luther (1912)",
+    "abbr": "LUT",
+    "lang": "ger",
+    "group": "German Deutsch",
+    "remote": true,
+    "bollsId": "LUT"
+  },
+  {
+    "id": "b-mb",
+    "name": "Menge-Bibel",
+    "abbr": "MB",
+    "lang": "ger",
+    "group": "German Deutsch",
+    "remote": true,
+    "bollsId": "MB"
+  },
+  {
+    "id": "b-sch",
+    "name": "Schlachter (1951)",
+    "abbr": "SCH",
+    "lang": "ger",
+    "group": "German Deutsch",
+    "remote": true,
+    "bollsId": "SCH"
+  },
+  {
+    "id": "b-s00",
+    "name": "Schlachter 2000",
+    "abbr": "S00",
+    "lang": "ger",
+    "group": "German Deutsch",
+    "remote": true,
+    "bollsId": "S00"
+  },
+  {
+    "id": "b-tr",
+    "name": "Elzevir Textus Receptus (1624)",
+    "abbr": "TR",
+    "lang": "gre",
+    "group": "Greek Ελληνικά",
+    "remote": true,
+    "bollsId": "TR"
+  },
+  {
+    "id": "b-ntgt",
+    "name": "Greek NT: Tischendorf 8th Ed.",
+    "abbr": "NTGT",
+    "lang": "gre",
+    "group": "Greek Ελληνικά",
+    "remote": true,
+    "bollsId": "NTGT"
+  },
+  {
+    "id": "b-lxx",
+    "name": "Septuagint",
+    "abbr": "LXX",
+    "lang": "gre",
+    "group": "Greek Ελληνικά",
+    "remote": true,
+    "bollsId": "LXX"
+  },
+  {
+    "id": "b-tisch",
+    "name": "Tischendorf's Greek New Testament, 8th edition, 1869–72 (With Strong's numbers)",
+    "abbr": "TISCH",
+    "lang": "gre",
+    "group": "Greek Ελληνικά",
+    "remote": true,
+    "bollsId": "TISCH"
+  },
+  {
+    "id": "b-dhnt",
+    "name": "Delitzsch's Hebrew New Testament 1877, 1998 (with vowels)",
+    "abbr": "DHNT",
+    "lang": "heb",
+    "group": "Hebrew עברית",
+    "remote": true,
+    "bollsId": "DHNT"
+  },
+  {
+    "id": "b-wlcc",
+    "name": "Westminster Leningrad Codex (Consonants)",
+    "abbr": "WLCC",
+    "lang": "heb",
+    "group": "Hebrew עברית",
+    "remote": true,
+    "bollsId": "WLCC"
+  },
+  {
+    "id": "b-wlca",
+    "name": "Westminster Leningrad Codex (with vowels, accents and Strong's numbers)",
+    "abbr": "WLCa",
+    "lang": "heb",
+    "group": "Hebrew עברית",
+    "remote": true,
+    "bollsId": "WLCa"
+  },
+  {
+    "id": "b-wlc",
+    "name": "Westminster Leningrad Codex (with Vowels)",
+    "abbr": "WLC",
+    "lang": "heb",
+    "group": "Hebrew עברית",
+    "remote": true,
+    "bollsId": "WLC"
+  },
+  {
+    "id": "b-hac",
+    "name": "כֶּתֶר אֲרָם צוֹבָא - Tanah Aleppo Codex",
+    "abbr": "HAC",
+    "lang": "heb",
+    "group": "Hebrew עברית",
+    "remote": true,
+    "bollsId": "HAC"
+  },
+  {
+    "id": "b-hiov",
+    "name": "Hindi O.V. - Re-edited (BSI)",
+    "abbr": "HIOV",
+    "lang": "hin",
+    "group": "Hindi हिन्दी",
+    "remote": true,
+    "bollsId": "HIOV"
+  },
+  {
+    "id": "b-kb",
+    "name": "Karoli Bible 1908",
+    "abbr": "KB",
+    "lang": "hun",
+    "group": "Hungarian Magyar",
+    "remote": true,
+    "bollsId": "KB"
+  },
+  {
+    "id": "b-ruf",
+    "name": "Magyar Bibliatársulat újfordítású Bibliája, 2014 (protestáns)",
+    "abbr": "RUF",
+    "lang": "hun",
+    "group": "Hungarian Magyar",
+    "remote": true,
+    "bollsId": "RUF"
+  },
+  {
+    "id": "b-tb",
+    "name": "Terjemahan Baru",
+    "abbr": "TB",
+    "lang": "id",
+    "group": "Indonesian",
+    "remote": true,
+    "bollsId": "TB"
+  },
+  {
+    "id": "b-jpkjv",
+    "name": "口語訳聖書(ルビあり), Colloquial Japanese - Kougo-yaku, 1954/1955",
+    "abbr": "JPKJV",
+    "lang": "jap",
+    "group": "Japanese 日本語",
+    "remote": true,
+    "bollsId": "JPKJV"
+  },
+  {
+    "id": "b-jpnict",
+    "name": "新共同訳聖書, Japanese New Interconfessional Translation Bible - Shinkyodo-yaku, 1987",
+    "abbr": "JPNICT",
+    "lang": "jap",
+    "group": "Japanese 日本語",
+    "remote": true,
+    "bollsId": "JPNICT"
+  },
+  {
+    "id": "b-njb",
+    "name": "新改訳聖書 第三版, New Japanese Bible - Shinkai-yaku, 2003",
+    "abbr": "NJB",
+    "lang": "jap",
+    "group": "Japanese 日本語",
+    "remote": true,
+    "bollsId": "NJB"
+  },
+  {
+    "id": "b-kncl",
+    "name": "ಕನ್ನಡ ಸತ್ಯವೇದವು C.L. (BSI)",
+    "abbr": "KNCL",
+    "lang": "kan",
+    "group": "Kannada ಕನ್ನಡ",
+    "remote": true,
+    "bollsId": "KNCL"
+  },
+  {
+    "id": "b-ervkn",
+    "name": "ಕ್ರೈಸ್ತರ ಧರ್ಮಗ್ರಂಥ, Kannada Bible: Easy-to-Read Version, 2007",
+    "abbr": "ERVKN",
+    "lang": "kan",
+    "group": "Kannada ಕನ್ನಡ",
+    "remote": true,
+    "bollsId": "ERVKN"
+  },
+  {
+    "id": "b-krv",
+    "name": "개역한글",
+    "abbr": "KRV",
+    "lang": "kor",
+    "group": "Korean 한국어",
+    "remote": true,
+    "bollsId": "KRV"
+  },
+  {
+    "id": "b-rnksv",
+    "name": "새번역",
+    "abbr": "RNKSV",
+    "lang": "kor",
+    "group": "Korean 한국어",
+    "remote": true,
+    "bollsId": "RNKSV"
+  },
+  {
+    "id": "b-vulg",
+    "name": "Biblia Sacra juxta Vulgatam Clementinam",
+    "abbr": "VULG",
+    "lang": "lat",
+    "group": "Latin / Italian",
+    "remote": true,
+    "bollsId": "VULG"
+  },
+  {
+    "id": "b-nr06",
+    "name": "Nuova Riveduta, 2006",
+    "abbr": "NR06",
+    "lang": "lat",
+    "group": "Latin / Italian",
+    "remote": true,
+    "bollsId": "NR06"
+  },
+  {
+    "id": "b-mov",
+    "name": "സത്യവേദപുസ്തകം O.V.",
+    "abbr": "MOV",
+    "lang": "mal",
+    "group": "Malayalam മലയാളം",
+    "remote": true,
+    "bollsId": "MOV"
+  },
+  {
+    "id": "b-nnrv",
+    "name": "Nepali New Revised Version, 2012",
+    "abbr": "NNRV",
+    "lang": "nep",
+    "group": "Nepali नेपाली",
+    "remote": true,
+    "bollsId": "NNRV"
+  },
+  {
+    "id": "b-neps",
+    "name": "सरल नेपाली पवित्र बाइबल",
+    "abbr": "NEPS",
+    "lang": "nep",
+    "group": "Nepali नेपाली",
+    "remote": true,
+    "bollsId": "NEPS"
+  },
+  {
+    "id": "b-dnb",
+    "name": "Det Norsk Bibelselskap (1930)",
+    "abbr": "DNB",
+    "lang": "nor",
+    "group": "Norwegian Norsk",
+    "remote": true,
+    "bollsId": "DNB"
+  },
+  {
+    "id": "b-bg",
+    "name": "Biblia gdańska, 1881",
+    "abbr": "BG",
+    "lang": "pol",
+    "group": "Polska Polish",
+    "remote": true,
+    "bollsId": "BG"
+  },
+  {
+    "id": "b-bw",
+    "name": "Biblia warszawska, 1975",
+    "abbr": "BW",
+    "lang": "pol",
+    "group": "Polska Polish",
+    "remote": true,
+    "bollsId": "BW"
+  },
+  {
+    "id": "b-ubg18",
+    "name": "UWSPÓŁCZEŚNIONA BIBLIA GDAŃSKA, 2018",
+    "abbr": "UBG18",
+    "lang": "pol",
+    "group": "Polska Polish",
+    "remote": true,
+    "bollsId": "UBG18"
+  },
+  {
+    "id": "b-acf11",
+    "name": "Almeida Corrigida Fiel, 2011",
+    "abbr": "ACF11",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "ACF11"
+  },
+  {
+    "id": "b-ara",
+    "name": "Almeida Revista e Atualizada, 1993",
+    "abbr": "ARA",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "ARA"
+  },
+  {
+    "id": "b-arc09",
+    "name": "Almeida Revista e Corrigida, 2009",
+    "abbr": "ARC09",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "ARC09"
+  },
+  {
+    "id": "b-mens",
+    "name": "Bíblia A Mensagem",
+    "abbr": "MENS",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "MENS"
+  },
+  {
+    "id": "b-alm21",
+    "name": "Bíblia Almeida Século 21",
+    "abbr": "ALM21",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "ALM21"
+  },
+  {
+    "id": "b-cnbb",
+    "name": "Bíblia CNBB (Nova Capa), 2002",
+    "abbr": "CNBB",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "CNBB"
+  },
+  {
+    "id": "b-kja",
+    "name": "Bíblia King James Atualizada, 2001",
+    "abbr": "KJA",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "KJA"
+  },
+  {
+    "id": "b-nvt",
+    "name": "Bíblia Sagrada, Nova Versão Transformadora, 2016",
+    "abbr": "NVT",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "NVT"
+  },
+  {
+    "id": "b-vfl",
+    "name": "Bíblia Sagrada: Versão Fácil de Ler",
+    "abbr": "VFL",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "VFL"
+  },
+  {
+    "id": "b-naa",
+    "name": "Nova Almeida Atualizada 2017",
+    "abbr": "NAA",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "NAA"
+  },
+  {
+    "id": "b-nbv07",
+    "name": "Nova Bíblia Viva, 2007",
+    "abbr": "NBV07",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "NBV07"
+  },
+  {
+    "id": "b-ntlh",
+    "name": "Nova Tradução na Linguagem de Hoje, 2000",
+    "abbr": "NTLH",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "NTLH"
+  },
+  {
+    "id": "b-nvipt",
+    "name": "Nova Versão Internacional",
+    "abbr": "NVIPT",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "NVIPT"
+  },
+  {
+    "id": "b-ntjud",
+    "name": "Novo Testamento Judaico",
+    "abbr": "NTJud",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "NTJud"
+  },
+  {
+    "id": "b-ol",
+    "name": "O Livro",
+    "abbr": "OL",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "OL"
+  },
+  {
+    "id": "b-tb10",
+    "name": "Tradução Brasileira, 2010",
+    "abbr": "TB10",
+    "lang": "pt",
+    "group": "Portuguese",
+    "remote": true,
+    "bollsId": "TB10"
+  },
+  {
+    "id": "b-ntr",
+    "name": "Noua Traducere Românească, 2016",
+    "abbr": "NTR",
+    "lang": "rom",
+    "group": "Romanian Română",
+    "remote": true,
+    "bollsId": "NTR"
+  },
+  {
+    "id": "b-vdcl",
+    "name": "Traducere Literală Cornilescu 1931",
+    "abbr": "VDCL",
+    "lang": "rom",
+    "group": "Romanian Română",
+    "remote": true,
+    "bollsId": "VDCL"
+  },
+  {
+    "id": "b-desn",
+    "name": "Библейские переводы Андрея Десницкого",
+    "abbr": "DESN",
+    "lang": "rus",
+    "group": "russian русский",
+    "remote": true,
+    "bollsId": "DESN"
+  },
+  {
+    "id": "b-bti",
+    "name": "Библия под ред. М.П. Кулакова и М.М. Кулакова, 2015",
+    "abbr": "BTI",
+    "lang": "rus",
+    "group": "russian русский",
+    "remote": true,
+    "bollsId": "BTI"
+  },
+  {
+    "id": "b-jnt",
+    "name": "Еврейский Новый Завет в переводе и комментариях Давида Стерна",
+    "abbr": "JNT",
+    "lang": "rus",
+    "group": "russian русский",
+    "remote": true,
+    "bollsId": "JNT"
+  },
+  {
+    "id": "b-nrt",
+    "name": "Новый русский Перевод (НРП)",
+    "abbr": "NRT",
+    "lang": "rus",
+    "group": "russian русский",
+    "remote": true,
+    "bollsId": "NRT"
+  },
+  {
+    "id": "b-synod",
+    "name": "русский Синодальный Перевод",
+    "abbr": "SYNOD",
+    "lang": "rus",
+    "group": "russian русский",
+    "remote": true,
+    "bollsId": "SYNOD"
+  },
+  {
+    "id": "b-rbs2",
+    "name": "Современный русский перевод, 2015",
+    "abbr": "RBS2",
+    "lang": "rus",
+    "group": "russian русский",
+    "remote": true,
+    "bollsId": "RBS2"
+  },
+  {
+    "id": "b-tnhr",
+    "name": "ТаНаХ на русском языке в переводе Давида Йосифона, 1975",
+    "abbr": "TNHR",
+    "lang": "rus",
+    "group": "russian русский",
+    "remote": true,
+    "bollsId": "TNHR"
+  },
+  {
+    "id": "b-lbla",
+    "name": "La Biblia de las Américas, 1997",
+    "abbr": "LBLA",
+    "lang": "spa",
+    "group": "Spanish Español",
+    "remote": true,
+    "bollsId": "LBLA"
+  },
+  {
+    "id": "b-btx3",
+    "name": "La Biblia Textual 3ra Edicion",
+    "abbr": "BTX3",
+    "lang": "spa",
+    "group": "Spanish Español",
+    "remote": true,
+    "bollsId": "BTX3"
+  },
+  {
+    "id": "b-ntv",
+    "name": "Nueva Traducción Viviente, 2009",
+    "abbr": "NTV",
+    "lang": "spa",
+    "group": "Spanish Español",
+    "remote": true,
+    "bollsId": "NTV"
+  },
+  {
+    "id": "b-pdt",
+    "name": "Palabra de Dios para Todos",
+    "abbr": "PDT",
+    "lang": "spa",
+    "group": "Spanish Español",
+    "remote": true,
+    "bollsId": "PDT"
+  },
+  {
+    "id": "b-rv2004",
+    "name": "Reina Valera Gómez 2004",
+    "abbr": "RV2004",
+    "lang": "spa",
+    "group": "Spanish Español",
+    "remote": true,
+    "bollsId": "RV2004"
+  },
+  {
+    "id": "b-rv1960",
+    "name": "Reina-Valera 1960",
+    "abbr": "RV1960",
+    "lang": "spa",
+    "group": "Spanish Español",
+    "remote": true,
+    "bollsId": "RV1960"
+  },
+  {
+    "id": "b-suv",
+    "name": "Swahili Union Version, 1997",
+    "abbr": "SUV",
+    "lang": "swa",
+    "group": "Swahili Kiswahili",
+    "remote": true,
+    "bollsId": "SUV"
+  },
+  {
+    "id": "b-sfb2015",
+    "name": "Svenska Folkbibeln 2015",
+    "abbr": "SFB2015",
+    "lang": "swe",
+    "group": "Swedish Svenska",
+    "remote": true,
+    "bollsId": "SFB2015"
+  },
+  {
+    "id": "b-tbsi",
+    "name": "Tamil Older Version Bible",
+    "abbr": "TBSI",
+    "lang": "tam",
+    "group": "Tamil தமிழ்",
+    "remote": true,
+    "bollsId": "TBSI"
+  },
+  {
+    "id": "b-tambl98",
+    "name": "பரிசுத்த பைபிள்",
+    "abbr": "TAMBL98",
+    "lang": "tam",
+    "group": "Tamil தமிழ்",
+    "remote": true,
+    "bollsId": "TAMBL98"
+  },
+  {
+    "id": "b-tamovr",
+    "name": "பரிசுத்த வேதாகமம் O.V.",
+    "abbr": "TAMOVR",
+    "lang": "tam",
+    "group": "Tamil தமிழ்",
+    "remote": true,
+    "bollsId": "TAMOVR"
+  },
+  {
+    "id": "b-phil",
+    "name": "Бiблiя. Переклад Патріарха ФІЛАРЕТА (Денисенка), 2004",
+    "abbr": "PHIL",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "PHIL"
+  },
+  {
+    "id": "b-csl",
+    "name": "Библия Церковнославянская, 1900",
+    "abbr": "CSL",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "CSL"
+  },
+  {
+    "id": "b-cuv23",
+    "name": "БІБЛІЯ Сучасний переклад © УБТ (2020-2023)",
+    "abbr": "CUV23",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "CUV23"
+  },
+  {
+    "id": "b-ubio",
+    "name": "Біблія, Іван Іванович Огієнко 1962",
+    "abbr": "UBIO",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "UBIO"
+  },
+  {
+    "id": "b-tub",
+    "name": "Біблія. Новий переклад УБТ Рафаїла Турконяка (1997-2007) 76 книг",
+    "abbr": "TUB",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "TUB"
+  },
+  {
+    "id": "b-ukrk",
+    "name": "Біблія. Пантелеймон Александрович Куліш, Іван Семенович Нечуй-Левицький, Іван Павлович Пулюй, 1903",
+    "abbr": "UKRK",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "UKRK"
+  },
+  {
+    "id": "b-ukder",
+    "name": "Велике Відкриття. Діана Деркач, 1992",
+    "abbr": "UKDER",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "UKDER"
+  },
+  {
+    "id": "b-gyz",
+    "name": "Канонічний переклад Біблії сучасною українською мовою. Переклав Олександр Гижа. © 2019",
+    "abbr": "GYZ",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "GYZ"
+  },
+  {
+    "id": "b-ppch",
+    "name": "НОВИЙ ЗАВІТ. Новий переклад Юрія Попченка з давньогрецької на сучасну українську літературну мову",
+    "abbr": "PPCH",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "PPCH"
+  },
+  {
+    "id": "b-umt",
+    "name": "Свята Біблія: Сучасною мовою",
+    "abbr": "UMT",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "UMT"
+  },
+  {
+    "id": "b-hom",
+    "name": "Святе Письмо, Переклад Івана Хоменка, 1963",
+    "abbr": "HOM",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "HOM"
+  },
+  {
+    "id": "b-utt",
+    "name": "Українська Біблія LXX УБТ Рафаїла Турконяка (2011) 77 книг",
+    "abbr": "UTT",
+    "lang": "ukr",
+    "group": "Ukrainian Українська / Церковнослав'янська",
+    "remote": true,
+    "bollsId": "UTT"
+  },
+  {
+    "id": "b-vi1934",
+    "name": "Kinh Thánh (1934)",
+    "abbr": "VI1934",
+    "lang": "vie",
+    "group": "Vietnamese Tiếng Việt",
+    "remote": true,
+    "bollsId": "VI1934"
   }
 ]

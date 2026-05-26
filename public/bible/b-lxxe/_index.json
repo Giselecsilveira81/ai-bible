@@ -1,0 +1,314 @@
+[
+  {
+    "abbrev": "gn",
+    "name": "Genesis",
+    "slug": "genesis",
+    "chapters": 50,
+    "testament": "AT",
+    "bollsBookId": 1
+  },
+  {
+    "abbrev": "ex",
+    "name": "Exodus",
+    "slug": "exodo",
+    "chapters": 40,
+    "testament": "AT",
+    "bollsBookId": 2
+  },
+  {
+    "abbrev": "lv",
+    "name": "Leviticus",
+    "slug": "levitico",
+    "chapters": 27,
+    "testament": "AT",
+    "bollsBookId": 3
+  },
+  {
+    "abbrev": "nm",
+    "name": "Numbers",
+    "slug": "numeros",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 4
+  },
+  {
+    "abbrev": "dt",
+    "name": "Deuteronomy",
+    "slug": "deuteronomio",
+    "chapters": 34,
+    "testament": "AT",
+    "bollsBookId": 5
+  },
+  {
+    "abbrev": "js",
+    "name": "Joshua",
+    "slug": "josue",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 6
+  },
+  {
+    "abbrev": "jz",
+    "name": "Judges",
+    "slug": "juizes",
+    "chapters": 21,
+    "testament": "AT",
+    "bollsBookId": 7
+  },
+  {
+    "abbrev": "rt",
+    "name": "Ruth",
+    "slug": "rute",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 8
+  },
+  {
+    "abbrev": "1sm",
+    "name": "1 Samuel",
+    "slug": "1-samuel",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 9
+  },
+  {
+    "abbrev": "2sm",
+    "name": "2 Samuel",
+    "slug": "2-samuel",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 10
+  },
+  {
+    "abbrev": "1rs",
+    "name": "1 Kings",
+    "slug": "1-reis",
+    "chapters": 22,
+    "testament": "AT",
+    "bollsBookId": 11
+  },
+  {
+    "abbrev": "2rs",
+    "name": "2 Kings",
+    "slug": "2-reis",
+    "chapters": 25,
+    "testament": "AT",
+    "bollsBookId": 12
+  },
+  {
+    "abbrev": "1cr",
+    "name": "1 Chronicles",
+    "slug": "1-cronicas",
+    "chapters": 29,
+    "testament": "AT",
+    "bollsBookId": 13
+  },
+  {
+    "abbrev": "2cr",
+    "name": "2 Chronicles",
+    "slug": "2-cronicas",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 14
+  },
+  {
+    "abbrev": "ed",
+    "name": "Ezra",
+    "slug": "esdras",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 15
+  },
+  {
+    "abbrev": "ne",
+    "name": "Nehemiah",
+    "slug": "neemias",
+    "chapters": 13,
+    "testament": "AT",
+    "bollsBookId": 16
+  },
+  {
+    "abbrev": "et",
+    "name": "Esther",
+    "slug": "ester",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 17
+  },
+  {
+    "abbrev": "jó",
+    "name": "Job",
+    "slug": "jo",
+    "chapters": 42,
+    "testament": "AT",
+    "bollsBookId": 18
+  },
+  {
+    "abbrev": "sl",
+    "name": "Psalms",
+    "slug": "salmos",
+    "chapters": 151,
+    "testament": "AT",
+    "bollsBookId": 19
+  },
+  {
+    "abbrev": "pv",
+    "name": "Proverbs",
+    "slug": "proverbios",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 20
+  },
+  {
+    "abbrev": "ec",
+    "name": "Ecclesiastes",
+    "slug": "eclesiastes",
+    "chapters": 12,
+    "testament": "AT",
+    "bollsBookId": 21
+  },
+  {
+    "abbrev": "ct",
+    "name": "Song of Solomon",
+    "slug": "canticos",
+    "chapters": 8,
+    "testament": "AT",
+    "bollsBookId": 22
+  },
+  {
+    "abbrev": "is",
+    "name": "Isaiah",
+    "slug": "isaias",
+    "chapters": 66,
+    "testament": "AT",
+    "bollsBookId": 23
+  },
+  {
+    "abbrev": "jr",
+    "name": "Jeremiah",
+    "slug": "jeremias",
+    "chapters": 52,
+    "testament": "AT",
+    "bollsBookId": 24
+  },
+  {
+    "abbrev": "lm",
+    "name": "Lamentations",
+    "slug": "lamentacoes-de-jeremias",
+    "chapters": 5,
+    "testament": "AT",
+    "bollsBookId": 25
+  },
+  {
+    "abbrev": "ez",
+    "name": "Ezekiel",
+    "slug": "ezequiel",
+    "chapters": 48,
+    "testament": "AT",
+    "bollsBookId": 26
+  },
+  {
+    "abbrev": "dn",
+    "name": "Daniel",
+    "slug": "daniel",
+    "chapters": 12,
+    "testament": "AT",
+    "bollsBookId": 27
+  },
+  {
+    "abbrev": "os",
+    "name": "Hosea",
+    "slug": "oseias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 28
+  },
+  {
+    "abbrev": "jl",
+    "name": "Joel",
+    "slug": "joel",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 29
+  },
+  {
+    "abbrev": "am",
+    "name": "Amos",
+    "slug": "amos",
+    "chapters": 9,
+    "testament": "AT",
+    "bollsBookId": 30
+  },
+  {
+    "abbrev": "ob",
+    "name": "Obadiah",
+    "slug": "obadias",
+    "chapters": 1,
+    "testament": "AT",
+    "bollsBookId": 31
+  },
+  {
+    "abbrev": "jn",
+    "name": "Jonah",
+    "slug": "jonas",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 32
+  },
+  {
+    "abbrev": "mq",
+    "name": "Micah",
+    "slug": "miqueias",
+    "chapters": 7,
+    "testament": "AT",
+    "bollsBookId": 33
+  },
+  {
+    "abbrev": "na",
+    "name": "Nahum",
+    "slug": "naum",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 34
+  },
+  {
+    "abbrev": "hc",
+    "name": "Habakkuk",
+    "slug": "habacuque",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 35
+  },
+  {
+    "abbrev": "sf",
+    "name": "Zephaniah",
+    "slug": "sofonias",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 36
+  },
+  {
+    "abbrev": "ag",
+    "name": "Haggai",
+    "slug": "ageu",
+    "chapters": 2,
+    "testament": "AT",
+    "bollsBookId": 37
+  },
+  {
+    "abbrev": "zc",
+    "name": "Zechariah",
+    "slug": "zacarias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 38
+  },
+  {
+    "abbrev": "ml",
+    "name": "Malachi",
+    "slug": "malaquias",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 39
+  }
+]

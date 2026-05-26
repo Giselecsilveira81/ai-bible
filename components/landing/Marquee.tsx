@@ -19,16 +19,17 @@ function Strip({ ariaHidden = false }: { ariaHidden?: boolean }) {
       {VERSES.map((v, i) => (
         <li
           key={i}
-          className="font-serif italic font-light flex items-center"
+          className="font-serif italic font-light flex items-center text-ink-soft"
           style={{
-            fontSize: "clamp(36px, 6vw, 96px)",
-            paddingRight: "clamp(32px, 4vw, 80px)",
+            fontSize: "clamp(20px, 2.6vw, 42px)",
+            paddingRight: "clamp(28px, 3vw, 56px)",
           }}
         >
           <span>{v}</span>
           <span
-            className="text-gold ml-[clamp(32px,4vw,80px)]"
+            className="text-gold ml-[clamp(28px,3vw,56px)]"
             aria-hidden
+            style={{ fontSize: "0.7em" }}
           >
             ✦
           </span>
@@ -41,7 +42,7 @@ function Strip({ ariaHidden = false }: { ariaHidden?: boolean }) {
 export default function Marquee() {
   return (
     <div
-      className="border-y border-hairline overflow-hidden py-8 lg:py-12 bg-paper"
+      className="border-y border-hairline overflow-hidden py-5 lg:py-7 bg-paper"
       aria-label="Versículos famosos rolando"
     >
       <div className="marquee-track">

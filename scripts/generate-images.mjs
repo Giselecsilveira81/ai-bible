@@ -36,70 +36,56 @@ const IMAGES = [
     name: "hero-mockup",
     size: "1536x1024",
     quality: "high",
-    prompt: `Premium iPhone 15 Pro Max with deep titanium black bezel, standing UPRIGHT on a small CIRCULAR WHITE PEDESTAL DISC (luxury product display platform). Phone is centered, photographed in 3/4 perspective. Isolated on a fully TRANSPARENT background — NO floor, NO walls, NO environment.
+    prompt: `Editorial luxury product photography of a single premium iPhone 15 Pro Max with titanium black bezel, standing upright in 3/4 perspective on a thin circular white marble pedestal disc. Around the phone, six small white floating UI widget cards arranged 3 on the left side and 3 on the right side at varied depths, each with subtle drop shadows. Behind the phone, soft elegant horizontal golden light ribbons flow like waves of light, glowing warm. Under the pedestal, a thin glowing ring of gold light.
 
-The phone screen displays a Bible app in LIGHT MODE with cream/off-white background:
-- Top: small fan-shaped gold book icon next to "AI BIBLE" label in mono caps
-- Center: large "João 3:16" in elegant black Fraunces serif
-- Below: small gold horizontal divider with tiny ✦
-- Body: centered Portuguese serif text of John 3:16 — "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
-- Below verse: italic gray "Almeida Revista e Corrigida"
-- Bottom tab bar: 5 small icons labeled Início, Bíblia, Plano, IA, Perfil with the active one (Início) in gold
+Phone screen content (in LIGHT MODE with cream background): centered large serif "João 3:16" headline in black Fraunces; below it a thin gold divider line with a tiny ✦ in the middle; centered Portuguese serif body text of John 3:16; italic gray attribution "Almeida Revista e Corrigida"; at top a small gold book icon with "AI BIBLE" caps; bottom tab bar with 5 minimal icons (Início active in gold).
 
-AROUND the phone, floating in mid-air at different depths, SIX crisp WHITE UI cards with rounded corners and soft drop shadows:
+LEFT card 1: gold sun icon + "VERSÍCULO DO DIA" label + "Salmos 118:24" serif + small body text.
+LEFT card 2: gold pencil icon + "ANOTAÇÃO" label + "Reflexão" + small body + timestamp "08:30".
+LEFT card 3: gold book icon + "PLANO EM ANDAMENTO" label + "Fé que transforma" + "Dia 12 de 30" + gold progress bar at 40%.
+RIGHT card 1: gold star + "EXPLICAÇÃO COM IA" + thoughtful paragraph + "Gerado por IA" tag.
+RIGHT card 2: gold link icon + "VERSÍCULOS RELACIONADOS" + 3 refs (Romanos 5:8, 1 João 4:9, João 15:13).
+RIGHT card 3: gold bell icon + "LEMBRETE" + "Meditar na Palavra" + "Todos os dias às 07:00" + small gold toggle ON.
 
-LEFT of phone (3 cards stacked):
-1. "✦ VERSÍCULO DO DIA" header, then "Salmos 118:24" serif title, then "Este é o dia que o Senhor fez; alegremo-nos e exultemos neste dia."
-2. "✦ ANOTAÇÃO" header, "Reflexão" title, "Deus nos convida a viver cada dia com propósito e gratidão." timestamp "08:30"
-3. "✦ PLANO EM ANDAMENTO" header, "Fé que transforma" title, "Dia 12 de 30", progress bar 40% in gold
+Style: clean, minimal, awwwards-level editorial composition. Soft cream and gold palette. Sharp focus on phone. Cinematic warm rim light.
 
-RIGHT of phone (3 cards stacked):
-4. "✦ EXPLICAÇÃO COM IA" header, paragraph: "João 3:16 é um dos versículos mais conhecidos da Bíblia e resume o evangelho: o amor de Deus que oferece salvação através de Jesus.", tag "✦ Gerado por IA"
-5. "✦ VERSÍCULOS RELACIONADOS" header, 3 references listed — "Romanos 5:8", "1 João 4:9", "João 15:13" with small arrows
-6. "✦ LEMBRETE" header, "Meditar na Palavra" title, "Todos os dias às 07:00", with small gold toggle switch on
-
-BEHIND the phone: long curved horizontal LIGHT WAVES in warm gold tones, flowing like elegant ribbons.
-
-UNDER the pedestal: glowing gold ring of light around the base.
-
-CRITICAL: fully transparent PNG background, NO floor, NO marble, NO sky, NO wall, NO tagline text. ONLY phone + white pedestal + 6 white cards + golden light waves. Awwwards quality, photorealistic, premium product photography.`,
+CRITICAL: fully transparent PNG background. No floor visible beyond pedestal disc, no walls, no marble surface, no environment. Only the phone, the pedestal disc, the golden light ribbons, and the six floating white cards exist — everything else is fully transparent alpha. No text outside the cards and phone screen. No taglines anywhere.`,
   },
   {
     name: "showcase-ai",
     size: "1536x1024",
     quality: "high",
-    prompt: `Premium iPhone 15 Pro Max with deep titanium black bezel, standing UPRIGHT on a small CIRCULAR WHITE PEDESTAL DISC, slightly rotated counter-clockwise (-4 degrees), photographed in 3/4 perspective. Isolated on fully TRANSPARENT background.
+    prompt: `Editorial luxury product photography of a premium iPhone 15 Pro Max with titanium black bezel, slightly rotated counter-clockwise (-4°), standing on a thin circular white marble pedestal in 3/4 perspective. Behind the phone, soft elegant horizontal golden light ribbons flow like waves of warm light. Thin glowing gold ring of light under the pedestal.
 
-The phone screen displays an AI chat interface in LIGHT MODE with cream background:
-- Top: small gold mono label "✦ AI BIBLE — CHAT"
-- A user question in a soft cream rounded bubble: "Por que Romanos 8 fala de criação gemendo?"
-- Below it, an AI response in a gold-bordered cream bubble: gold ✦ symbol followed by a thoughtful serif paragraph about Romans 8 and the Greek word "systenazo".
-- Bottom: an input area with placeholder "Pergunte qualquer versículo..." and a small dark send arrow.
+Phone screen (LIGHT MODE, cream background): AI chat interface. Top: gold mono label "✦ AI BIBLE — CHAT". User message bubble in soft cream rounded corners: "Por que Romanos 8 fala de criação gemendo?". Below it, AI response bubble with gold left border: gold ✦ symbol + serif text starting "Paulo usa systenazo — gemer junto — para descrever a criação aguardando a redenção..." Bottom: rounded input field placeholder "Pergunte qualquer versículo..." with small dark circular send arrow on the right.
 
-BEHIND the phone: curved horizontal golden LIGHT WAVES flowing like elegant gold ribbons, radiating outward. White pedestal has a glowing gold ring of light at its base.
+AROUND the phone, four small white floating UI cards with subtle shadows:
+LEFT TOP: gold ✦ + "Respondendo em 2s" small text.
+LEFT BOTTOM: gold quote icon + "Grego original: systenazo" italic serif.
+RIGHT TOP: gold scroll icon + "Baseado em 4 comentaristas".
+RIGHT BOTTOM: small avatars + "Barclay · Calvino · Crisóstomo" mono caps.
 
-NO floating cards around the phone. Just the phone on the white circular pedestal with golden light waves behind.
+Style: minimal, awwwards-level editorial. Soft cream and gold palette. Cinematic warm rim light.
 
-CRITICAL: fully transparent PNG background, NO floor, NO marble, NO sky. Only the phone + white pedestal + golden light waves; rest is transparent alpha. Awwwards quality, photorealistic, premium product photography.`,
+CRITICAL: fully transparent PNG background. No floor, no marble surface beyond pedestal, no walls, no environment. Only phone + pedestal + golden light ribbons + 4 floating cards exist; everything else is transparent alpha. No tagline text anywhere.`,
   },
   {
     name: "showcase-plans",
     size: "1536x1024",
     quality: "high",
-    prompt: `Premium iPhone 15 Pro Max with deep titanium black bezel, standing UPRIGHT on a small CIRCULAR WHITE PEDESTAL DISC, slightly rotated clockwise (+4 degrees), photographed in 3/4 perspective. Isolated on fully TRANSPARENT background.
+    prompt: `Editorial luxury product photography of a premium iPhone 15 Pro Max with titanium black bezel, slightly rotated clockwise (+4°), standing on a thin circular white marble pedestal in 3/4 perspective. Behind the phone, soft elegant horizontal golden light ribbons flowing like warm light waves. Thin glowing gold ring of light under the pedestal.
 
-Phone screen shows a Bible reading plan in LIGHT MODE with cream background:
-- Top: gold mono label "✦ SEU PLANO"
-- Serif title "Ansiedade & Fé" in deep black
-- Gold mono subtitle "Dia 7 de 21"
-- Thin horizontal progress bar at 33% filled in gold
-- Three rounded cream cards stacked listing: "Salmo 23 — O Senhor é meu pastor", "Filipenses 4 — Paz que excede", "Mateus 6 — Não vos inquieteis"
+Phone screen (LIGHT MODE, cream background): Bible reading plan interface. Top: gold mono label "✦ SEU PLANO". Below: large serif title "Ansiedade & Fé" in black. Below: gold mono subtitle "Dia 7 de 21". Then a thin horizontal progress bar at 33% filled in gold, rest in cream. Below that: three rounded cream cards stacked vertically, each containing a Bible reference and quote: "Salmo 23 — O Senhor é meu pastor", "Filipenses 4:6-7 — Paz que excede", "Mateus 6:25-34 — Não vos inquieteis".
 
-BEHIND the phone: long curved horizontal golden LIGHT WAVES flowing like elegant gold ribbons, radiating outward. White pedestal has a glowing gold ring of light at its base.
+AROUND the phone, four small white floating UI cards with subtle shadows:
+LEFT TOP: small gold donut chart at 33% + "Progresso 33%" label.
+LEFT BOTTOM: gold play arrow + "Próximo: Salmo 23" serif.
+RIGHT TOP: gold calendar icon + "21 dias · IA personalizado".
+RIGHT BOTTOM: gold checkmark + "Lido: 7 capítulos".
 
-NO floating cards around the phone. Just phone on white circular pedestal with golden light waves behind.
+Style: minimal, awwwards-level editorial. Soft cream and gold palette. Cinematic warm rim light.
 
-CRITICAL: fully transparent PNG background, NO floor, NO marble, NO sky. Only phone + white pedestal + golden light waves; rest is transparent alpha channel. Awwwards quality, photorealistic, premium product photography.`,
+CRITICAL: fully transparent PNG background. No floor, no marble surface beyond pedestal, no walls, no environment. Only phone + pedestal + golden light ribbons + 4 floating cards exist; everything else is transparent alpha. No tagline text anywhere.`,
   },
 ];
 

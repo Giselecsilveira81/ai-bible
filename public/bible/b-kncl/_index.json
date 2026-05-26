@@ -1,0 +1,530 @@
+[
+  {
+    "abbrev": "gn",
+    "name": "ಆದಿಕಾಂಡ",
+    "slug": "genesis",
+    "chapters": 50,
+    "testament": "AT",
+    "bollsBookId": 1
+  },
+  {
+    "abbrev": "ex",
+    "name": "ವಿಮೋಚನಕಾಂಡ",
+    "slug": "exodo",
+    "chapters": 40,
+    "testament": "AT",
+    "bollsBookId": 2
+  },
+  {
+    "abbrev": "lv",
+    "name": "ಯಾಜಕಕಾಂಡ",
+    "slug": "levitico",
+    "chapters": 27,
+    "testament": "AT",
+    "bollsBookId": 3
+  },
+  {
+    "abbrev": "nm",
+    "name": "ಸಂಖ್ಯಾಕಾಂಡ",
+    "slug": "numeros",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 4
+  },
+  {
+    "abbrev": "dt",
+    "name": "ಧರ್ಮೋಪದೇಶಕಾಂಡ",
+    "slug": "deuteronomio",
+    "chapters": 34,
+    "testament": "AT",
+    "bollsBookId": 5
+  },
+  {
+    "abbrev": "js",
+    "name": "ಯೆಹೋಶುವ",
+    "slug": "josue",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 6
+  },
+  {
+    "abbrev": "jz",
+    "name": "ನ್ಯಾಯಸ್ಥಾಪಕರು",
+    "slug": "juizes",
+    "chapters": 21,
+    "testament": "AT",
+    "bollsBookId": 7
+  },
+  {
+    "abbrev": "rt",
+    "name": "ರೂತಳು",
+    "slug": "rute",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 8
+  },
+  {
+    "abbrev": "1sm",
+    "name": "ಸಮುವೇಲನು ಪ್ರಥಮ ಭಾಗ",
+    "slug": "1-samuel",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 9
+  },
+  {
+    "abbrev": "2sm",
+    "name": "ಸಮುವೇಲನು ದ್ವಿತೀಯ ಭಾಗ",
+    "slug": "2-samuel",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 10
+  },
+  {
+    "abbrev": "1rs",
+    "name": "ಅರಸುಗಳು ಪ್ರಥಮ ಭಾಗ",
+    "slug": "1-reis",
+    "chapters": 22,
+    "testament": "AT",
+    "bollsBookId": 11
+  },
+  {
+    "abbrev": "2rs",
+    "name": "ಅರಸುಗಳು ದ್ವಿತೀಯ ಭಾಗ",
+    "slug": "2-reis",
+    "chapters": 25,
+    "testament": "AT",
+    "bollsBookId": 12
+  },
+  {
+    "abbrev": "1cr",
+    "name": "ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ (ಪೂರ್ವಕಾಲದ ವೃತ್ತಾಂತ) ಪ್ರಥಮ ಭಾಗ",
+    "slug": "1-cronicas",
+    "chapters": 29,
+    "testament": "AT",
+    "bollsBookId": 13
+  },
+  {
+    "abbrev": "2cr",
+    "name": "ಪೂರ್ವಕಾಲದ ಇತಿಹಾಸ (ಪೂರ್ವಕಾಲದ ವೃತ್ತಾಂತಗಳು) ದ್ವಿತೀಯ ಭಾಗ",
+    "slug": "2-cronicas",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 14
+  },
+  {
+    "abbrev": "ed",
+    "name": "ಎಜ್ರನು",
+    "slug": "esdras",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 15
+  },
+  {
+    "abbrev": "ne",
+    "name": "ನೆಹೆಮೀಯ",
+    "slug": "neemias",
+    "chapters": 13,
+    "testament": "AT",
+    "bollsBookId": 16
+  },
+  {
+    "abbrev": "et",
+    "name": "ಎಸ್ತೇರಳು",
+    "slug": "ester",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 17
+  },
+  {
+    "abbrev": "jó",
+    "name": "ಯೋಬನು ಗ್ರಂಥ",
+    "slug": "jo",
+    "chapters": 42,
+    "testament": "AT",
+    "bollsBookId": 18
+  },
+  {
+    "abbrev": "sl",
+    "name": "ಕೀರ್ತನೆಗಳು",
+    "slug": "salmos",
+    "chapters": 150,
+    "testament": "AT",
+    "bollsBookId": 19
+  },
+  {
+    "abbrev": "pv",
+    "name": "ಜ್ಞಾನೋಕ್ತಿಗಳು",
+    "slug": "proverbios",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 20
+  },
+  {
+    "abbrev": "ec",
+    "name": "ಉಪದೇಶಕನ ಗ್ರಂಥ ಪ್ರಸಂಗಿ",
+    "slug": "eclesiastes",
+    "chapters": 12,
+    "testament": "AT",
+    "bollsBookId": 21
+  },
+  {
+    "abbrev": "ct",
+    "name": "ಪರಮಗೀತೆ",
+    "slug": "canticos",
+    "chapters": 8,
+    "testament": "AT",
+    "bollsBookId": 22
+  },
+  {
+    "abbrev": "is",
+    "name": "ಪ್ರವಾದಿ ಯೆಶಾಯನ ಗ್ರಂಥ",
+    "slug": "isaias",
+    "chapters": 66,
+    "testament": "AT",
+    "bollsBookId": 23
+  },
+  {
+    "abbrev": "jr",
+    "name": "ಪ್ರವಾದಿ ಯೆರೆಮೀಯನ ಗ್ರಂಥ",
+    "slug": "jeremias",
+    "chapters": 52,
+    "testament": "AT",
+    "bollsBookId": 24
+  },
+  {
+    "abbrev": "lm",
+    "name": "ಪ್ರಲಾಪಗಳು",
+    "slug": "lamentacoes-de-jeremias",
+    "chapters": 5,
+    "testament": "AT",
+    "bollsBookId": 25
+  },
+  {
+    "abbrev": "ez",
+    "name": "ಪ್ರವಾದಿ ಯೆಜೆಕಿಯೇಲನ ಗ್ರಂಥ",
+    "slug": "ezequiel",
+    "chapters": 48,
+    "testament": "AT",
+    "bollsBookId": 26
+  },
+  {
+    "abbrev": "dn",
+    "name": "ಪ್ರವಾದಿ ದಾನಿಯೇಲನ ಗ್ರಂಥ",
+    "slug": "daniel",
+    "chapters": 12,
+    "testament": "AT",
+    "bollsBookId": 27
+  },
+  {
+    "abbrev": "os",
+    "name": "ಪ್ರವಾದಿ ಹೋಶೇಯನ ಗ್ರಂಥ ಹನ್ನೆರಡು ಮಂದಿ ಕಿರಿಯ ಪ್ರವಾದಿಗಳು",
+    "slug": "oseias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 28
+  },
+  {
+    "abbrev": "jl",
+    "name": "ಪ್ರವಾದಿ ಯೀವೇಲನ ಗ್ರಂಥ",
+    "slug": "joel",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 29
+  },
+  {
+    "abbrev": "am",
+    "name": "ಪ್ರವಾದಿ ಆಮೋಸನ ಗ್ರಂಥ",
+    "slug": "amos",
+    "chapters": 9,
+    "testament": "AT",
+    "bollsBookId": 30
+  },
+  {
+    "abbrev": "ob",
+    "name": "ಪ್ರವಾದಿ ಓಬದ್ಯನ ಗ್ರಂಥ",
+    "slug": "obadias",
+    "chapters": 1,
+    "testament": "AT",
+    "bollsBookId": 31
+  },
+  {
+    "abbrev": "jn",
+    "name": "ಪ್ರವಾದಿ ಯೋನನ ಗ್ರಂಥ",
+    "slug": "jonas",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 32
+  },
+  {
+    "abbrev": "mq",
+    "name": "ಪ್ರವಾದಿ ಮೀಕನ ಗ್ರಂಥ",
+    "slug": "miqueias",
+    "chapters": 7,
+    "testament": "AT",
+    "bollsBookId": 33
+  },
+  {
+    "abbrev": "na",
+    "name": "ಪ್ರವಾದಿ ನಹೂಮನ ಗ್ರಂಥ",
+    "slug": "naum",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 34
+  },
+  {
+    "abbrev": "hc",
+    "name": "ಪ್ರವಾದಿ ಹಬಕ್ಕೂಕನ ಗ್ರಂಥ",
+    "slug": "habacuque",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 35
+  },
+  {
+    "abbrev": "sf",
+    "name": "ಪ್ರವಾದಿ ಜೆಫನ್ಯನ ಗ್ರಂಥ",
+    "slug": "sofonias",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 36
+  },
+  {
+    "abbrev": "ag",
+    "name": "ಪ್ರವಾದಿ ಹಗ್ಗಾಯನ ಗ್ರಂಥ",
+    "slug": "ageu",
+    "chapters": 2,
+    "testament": "AT",
+    "bollsBookId": 37
+  },
+  {
+    "abbrev": "zc",
+    "name": "ಪ್ರವಾದಿ ಜೆಕರ್ಯನ ಗ್ರಂಥ",
+    "slug": "zacarias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 38
+  },
+  {
+    "abbrev": "ml",
+    "name": "ಪ್ರವಾದಿ ಮಲಾಕಿಯನ ಗ್ರಂಥ",
+    "slug": "malaquias",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 39
+  },
+  {
+    "abbrev": "mt",
+    "name": "ಮತ್ತಾಯನು ಬರೆದ ಶುಭಸಂದೇಶ",
+    "slug": "mateus",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 40
+  },
+  {
+    "abbrev": "mc",
+    "name": "ಮಾರ್ಕನು ಬರೆದ ಶುಭಸಂದೇಶ",
+    "slug": "marcos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 41
+  },
+  {
+    "abbrev": "lc",
+    "name": "ಲೂಕನು ಬರೆದ ಶುಭಸಂದೇಶ",
+    "slug": "lucas",
+    "chapters": 24,
+    "testament": "NT",
+    "bollsBookId": 42
+  },
+  {
+    "abbrev": "jo",
+    "name": "ಯೊವಾನ್ನನು ಬರೆದ ಶುಭಸಂದೇಶ",
+    "slug": "joao",
+    "chapters": 21,
+    "testament": "NT",
+    "bollsBookId": 43
+  },
+  {
+    "abbrev": "atos",
+    "name": "ಪ್ರೇಷಿತರ ಕಾರ್ಯಕಲಾಪಗಳು",
+    "slug": "atos",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 44
+  },
+  {
+    "abbrev": "rm",
+    "name": "ಪೌಲನು ರೋಮನರಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "romanos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 45
+  },
+  {
+    "abbrev": "1co",
+    "name": "ಪೌಲನು ಕೊರಿಂಥಿಯರಿಗೆ ಬರೆದ ಮೊದಲನೆಯ ಪತ್ರ",
+    "slug": "1-corintios",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 46
+  },
+  {
+    "abbrev": "2co",
+    "name": "ಪೌಲನು ಕೊರಿಂಥಿಯರಿಗೆ ಬರೆದ ಎರಡನೆಯ ಪತ್ರ",
+    "slug": "2-corintios",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 47
+  },
+  {
+    "abbrev": "gl",
+    "name": "ಪೌಲನು ಗಲಾತ್ಯರಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "galatas",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 48
+  },
+  {
+    "abbrev": "ef",
+    "name": "ಪೌಲನು ಎಫೆಸಿಯರಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "efesios",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 49
+  },
+  {
+    "abbrev": "fp",
+    "name": "ಪೌಲನು ಫಿಲಿಪ್ಪಿಯರಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "filipenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 50
+  },
+  {
+    "abbrev": "cl",
+    "name": "ಪೌಲನು ಕೊಲೊಸ್ಸೆಯರಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "colossenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 51
+  },
+  {
+    "abbrev": "1ts",
+    "name": "ಪೌಲನು ಥೆಸಲೋನಿಯರಿಗೆ ಬರೆದ ಮೊದಲನೆಯ ಪತ್ರ",
+    "slug": "1-tessalonicenses",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 52
+  },
+  {
+    "abbrev": "2ts",
+    "name": "ಪೌಲನು ಥೆಸಲೋನಿಯರಿಗೆ ಬರೆದ ಎರಡನೆಯ ಪತ್ರ",
+    "slug": "2-tessalonicenses",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 53
+  },
+  {
+    "abbrev": "1tm",
+    "name": "ಪೌಲನು ತಿಮೊಥೇಯನಿಗೆ ಬರೆದ ಮೊದಲನೆಯ ಪತ್ರ",
+    "slug": "1-timoteo",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 54
+  },
+  {
+    "abbrev": "2tm",
+    "name": "ಪೌಲನು ತಿಮೊಥೇಯನಿಗೆ ಬರೆದ ಎರಡನೆಯ ಪತ್ರ",
+    "slug": "2-timoteo",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 55
+  },
+  {
+    "abbrev": "tt",
+    "name": "ಪೌಲನು ತೀತನಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "tito",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 56
+  },
+  {
+    "abbrev": "fm",
+    "name": "ಪೌಲನು ಫಿಲೆಮೋನನಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "filemom",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 57
+  },
+  {
+    "abbrev": "hb",
+    "name": "ಹಿಬ್ರಿಯರಿಗೆ ಬರೆದ ಪತ್ರ",
+    "slug": "hebreus",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 58
+  },
+  {
+    "abbrev": "tg",
+    "name": "ಯಾಕೋಬನು ಬರೆದ ಪತ್ರಿಕೆ",
+    "slug": "tiago",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 59
+  },
+  {
+    "abbrev": "1pe",
+    "name": "ಪೇತ್ರನು ಬರೆದ ಮೊದಲನೆಯ ಪತ್ರ",
+    "slug": "1-pedro",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 60
+  },
+  {
+    "abbrev": "2pe",
+    "name": "ಪೇತ್ರನು ಬರೆದ ಎರಡನೆಯ ಪತ್ರ",
+    "slug": "2-pedro",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 61
+  },
+  {
+    "abbrev": "1jo",
+    "name": "ಯೊವಾನ್ನನು ಬರೆದ ಮೊದಲನೆಯ ಪತ್ರ",
+    "slug": "1-joao",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 62
+  },
+  {
+    "abbrev": "2jo",
+    "name": "ಯೊವಾನ್ನನು ಬರೆದ ಎರಡನೆಯ ಪತ್ರ",
+    "slug": "2-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 63
+  },
+  {
+    "abbrev": "3jo",
+    "name": "ಯೊವಾನ್ನನು ಬರೆದ ಮೂರನೆಯ ಪತ್ರ",
+    "slug": "3-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 64
+  },
+  {
+    "abbrev": "jd",
+    "name": "ಯೂದನು ಬರೆದ ಪತ್ರ",
+    "slug": "judas",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 65
+  },
+  {
+    "abbrev": "ap",
+    "name": "ಯೊವಾನ್ನನು ಕಂಡ ದಿವ್ಯ ದರ್ಶನಗಳ ಪ್ರಕಟನೆ",
+    "slug": "apocalipse",
+    "chapters": 22,
+    "testament": "NT",
+    "bollsBookId": 66
+  }
+]

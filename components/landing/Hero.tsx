@@ -1,8 +1,8 @@
 "use client";
 
 import { useEffect } from "react";
+import Image from "next/image";
 import MagneticButton from "./MagneticButton";
-import PhoneScene from "./PhoneScene";
 
 export default function Hero() {
   useEffect(() => {
@@ -22,8 +22,25 @@ export default function Hero() {
     <section
       id="hero"
       className="relative min-h-screen overflow-hidden pt-32 lg:pt-40 pb-16"
+      style={{
+        background:
+          "radial-gradient(ellipse at 30% 20%, #FAF6EF 0%, #F2EBE0 40%, #EAE0D0 100%)",
+      }}
     >
-      <div className="container-page grid lg:grid-cols-[1fr_1.1fr] gap-10 lg:gap-12 items-center min-h-[80vh]">
+      {/* Warm glow */}
+      <div
+        className="absolute pointer-events-none"
+        style={{
+          top: "15%",
+          left: "45%",
+          width: 700,
+          height: 700,
+          background:
+            "radial-gradient(circle, rgba(201,169,97,0.06) 0%, transparent 70%)",
+        }}
+      />
+
+      <div className="container-page grid lg:grid-cols-[1fr_1fr] gap-8 lg:gap-6 items-center min-h-[80vh]">
         {/* Coluna texto */}
         <div>
           <div className="flex flex-wrap gap-2 mb-8">
@@ -32,18 +49,17 @@ export default function Hero() {
           </div>
 
           <h1 className="h-display-xl">
-            <span className="hero-line split-reveal">A Palavra.</span>
-            <span className="hero-line split-reveal">Mais profunda</span>
+            <span className="hero-line split-reveal">A Bíblia.</span>
+            <span className="hero-line split-reveal">Mais profunda.</span>
             <span className="hero-line split-reveal text-gold-dark italic">
-              do que nunca.
+              Mais viva.
             </span>
           </h1>
 
           <p className="hero-fade fade-up mt-8 text-lg lg:text-xl text-ink-soft leading-relaxed max-w-xl">
-            Aprofunde sua fé, estude a Bíblia e fortaleça sua caminhada com a
-            inteligência artificial como ferramenta — comentários, contexto
-            histórico, originais em grego e hebraico, planos personalizados. A
-            iluminação vem do Senhor.
+            AI Bible é o seu companheiro espiritual diário. Com IA avançada,
+            explore escrituras, receba respostas, faça anotações e cresça na
+            presença de Deus — onde estiver.
           </p>
 
           <div className="hero-fade fade-up mt-10 flex flex-wrap gap-3">
@@ -61,6 +77,18 @@ export default function Hero() {
           </div>
 
           <div className="hero-fade fade-up mt-10 flex items-center gap-3">
+            {/* Avatares */}
+            <div className="flex -space-x-2">
+              {[0, 1, 2].map((i) => (
+                <div
+                  key={i}
+                  className="w-8 h-8 rounded-full border-2 border-paper"
+                  style={{
+                    background: `hsl(${35 + i * 15}, 40%, ${70 - i * 5}%)`,
+                  }}
+                />
+              ))}
+            </div>
             <div className="flex text-gold" aria-label="5 estrelas">
               ★★★★★
             </div>
@@ -70,9 +98,18 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* Coluna mockup — cena construída em código (sem PNG) */}
+        {/* Coluna mockup */}
         <div className="hero-fade fade-up">
-          <PhoneScene />
+          <div className="relative">
+            <Image
+              src="/landing/hero-visual.jpg"
+              alt="AI Bible app mockup"
+              width={800}
+              height={800}
+              className="w-full h-auto"
+              priority
+            />
+          </div>
         </div>
       </div>
 

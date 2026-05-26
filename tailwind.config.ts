@@ -22,28 +22,28 @@ export default {
       },
       colors: {
         ink: {
-          DEFAULT: "#0A0A0A",
-          soft: "#1C1C1C",
-          mute: "#6B6B6B",
+          DEFAULT: "#1A1A1A",
+          soft: "#2A2A2A",
+          mute: "#8B7D6B",
         },
         paper: {
-          DEFAULT: "#F8F6F1",
-          warm: "#F2EFE8",
-          soft: "#F0EDE8",
+          DEFAULT: "#F5F0E8",
+          warm: "#E8DFD0",
+          soft: "#EFE7D8",
         },
         gold: {
-          DEFAULT: "#C9A961",
-          dark: "#8B6F2A",
-          light: "#E8D5A0",
-          pale: "rgba(201, 169, 97, 0.08)",
+          DEFAULT: "#B8960C",
+          dark: "#8C6F08",
+          light: "#D9B83E",
+          pale: "rgba(184, 150, 12, 0.10)",
         },
         hairline: {
-          DEFAULT: "rgba(10, 10, 10, 0.08)",
-          gold: "rgba(201, 169, 97, 0.25)",
-          "gold-strong": "rgba(201, 169, 97, 0.5)",
+          DEFAULT: "rgba(26, 26, 26, 0.08)",
+          gold: "rgba(184, 150, 12, 0.28)",
+          "gold-strong": "rgba(184, 150, 12, 0.55)",
         },
         accent: {
-          DEFAULT: "#C9A961",
+          DEFAULT: "#B8960C",
         },
       },
       maxWidth: {
@@ -54,12 +54,12 @@ export default {
         pill: "9999px",
       },
       boxShadow: {
-        "soft-sm": "0 4px 16px rgba(10,10,10,0.06)",
-        "soft-md": "0 16px 48px rgba(10,10,10,0.10)",
-        "soft-lg": "0 40px 100px rgba(10,10,10,0.15)",
-        gold: "0 20px 60px rgba(201,169,97,0.15)",
+        "soft-sm": "0 4px 16px rgba(26,26,26,0.05)",
+        "soft-md": "0 18px 48px rgba(26,26,26,0.08)",
+        "soft-lg": "0 40px 100px rgba(26,26,26,0.12)",
+        gold: "0 24px 70px rgba(184,150,12,0.22)",
         mockup:
-          "0 60px 120px rgba(10,10,10,0.22), 0 20px 40px rgba(201,169,97,0.08)",
+          "0 60px 120px rgba(26,26,26,0.18), 0 20px 50px rgba(184,150,12,0.18)",
       },
       transitionTimingFunction: {
         smooth: "cubic-bezier(0.65, 0.05, 0.36, 1)",

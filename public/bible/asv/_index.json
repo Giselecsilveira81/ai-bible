@@ -1,0 +1,464 @@
+[
+  {
+    "abbrev": "gn",
+    "name": "Genesis",
+    "slug": "genesis",
+    "chapters": 50,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ex",
+    "name": "Exodus",
+    "slug": "exodo",
+    "chapters": 40,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "lv",
+    "name": "Leviticus",
+    "slug": "levitico",
+    "chapters": 27,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "nm",
+    "name": "Numbers",
+    "slug": "numeros",
+    "chapters": 36,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "dt",
+    "name": "Deuteronomy",
+    "slug": "deuteronomio",
+    "chapters": 34,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "js",
+    "name": "Joshua",
+    "slug": "josue",
+    "chapters": 24,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "jz",
+    "name": "Judges",
+    "slug": "juizes",
+    "chapters": 21,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "rt",
+    "name": "Ruth",
+    "slug": "rute",
+    "chapters": 4,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "1sm",
+    "name": "1 Samuel",
+    "slug": "1-samuel",
+    "chapters": 31,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "2sm",
+    "name": "2 Samuel",
+    "slug": "2-samuel",
+    "chapters": 24,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "1rs",
+    "name": "1 Kings",
+    "slug": "1-reis",
+    "chapters": 22,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "2rs",
+    "name": "2 Kings",
+    "slug": "2-reis",
+    "chapters": 25,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "1cr",
+    "name": "1 Chronicles",
+    "slug": "1-cronicas",
+    "chapters": 29,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "2cr",
+    "name": "2 Chronicles",
+    "slug": "2-cronicas",
+    "chapters": 36,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ed",
+    "name": "Ezra",
+    "slug": "esdras",
+    "chapters": 10,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ne",
+    "name": "Nehemiah",
+    "slug": "neemias",
+    "chapters": 13,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "et",
+    "name": "Esther",
+    "slug": "ester",
+    "chapters": 10,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "jó",
+    "name": "Job",
+    "slug": "jo",
+    "chapters": 42,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "sl",
+    "name": "Psalms",
+    "slug": "salmos",
+    "chapters": 150,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "pv",
+    "name": "Proverbs",
+    "slug": "proverbios",
+    "chapters": 31,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ec",
+    "name": "Ecclesiastes",
+    "slug": "eclesiastes",
+    "chapters": 12,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ct",
+    "name": "Song of Solomon",
+    "slug": "canticos",
+    "chapters": 8,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "is",
+    "name": "Isaiah",
+    "slug": "isaias",
+    "chapters": 66,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "jr",
+    "name": "Jeremiah",
+    "slug": "jeremias",
+    "chapters": 52,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "lm",
+    "name": "Lamentations",
+    "slug": "lamentacoes-de-jeremias",
+    "chapters": 5,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ez",
+    "name": "Ezekiel",
+    "slug": "ezequiel",
+    "chapters": 48,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "dn",
+    "name": "Daniel",
+    "slug": "daniel",
+    "chapters": 12,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "os",
+    "name": "Hosea",
+    "slug": "oseias",
+    "chapters": 14,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "jl",
+    "name": "Joel",
+    "slug": "joel",
+    "chapters": 3,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "am",
+    "name": "Amos",
+    "slug": "amos",
+    "chapters": 9,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ob",
+    "name": "Obadiah",
+    "slug": "obadias",
+    "chapters": 1,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "jn",
+    "name": "Jonah",
+    "slug": "jonas",
+    "chapters": 4,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "mq",
+    "name": "Micah",
+    "slug": "miqueias",
+    "chapters": 7,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "na",
+    "name": "Nahum",
+    "slug": "naum",
+    "chapters": 3,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "hc",
+    "name": "Habakkuk",
+    "slug": "habacuque",
+    "chapters": 3,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "sf",
+    "name": "Zephaniah",
+    "slug": "sofonias",
+    "chapters": 3,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ag",
+    "name": "Haggai",
+    "slug": "ageu",
+    "chapters": 2,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "zc",
+    "name": "Zechariah",
+    "slug": "zacarias",
+    "chapters": 14,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "ml",
+    "name": "Malachi",
+    "slug": "malaquias",
+    "chapters": 4,
+    "testament": "AT"
+  },
+  {
+    "abbrev": "mt",
+    "name": "Matthew",
+    "slug": "mateus",
+    "chapters": 28,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "mc",
+    "name": "Mark",
+    "slug": "marcos",
+    "chapters": 16,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "lc",
+    "name": "Luke",
+    "slug": "lucas",
+    "chapters": 24,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "jo",
+    "name": "John",
+    "slug": "joao",
+    "chapters": 21,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "atos",
+    "name": "Acts",
+    "slug": "atos",
+    "chapters": 28,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "rm",
+    "name": "Romans",
+    "slug": "romanos",
+    "chapters": 16,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "1co",
+    "name": "1 Corinthians",
+    "slug": "1-corintios",
+    "chapters": 16,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "2co",
+    "name": "2 Corinthians",
+    "slug": "2-corintios",
+    "chapters": 13,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "gl",
+    "name": "Galatians",
+    "slug": "galatas",
+    "chapters": 6,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "ef",
+    "name": "Ephesians",
+    "slug": "efesios",
+    "chapters": 6,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "fp",
+    "name": "Philippians",
+    "slug": "filipenses",
+    "chapters": 4,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "cl",
+    "name": "Colossians",
+    "slug": "colossenses",
+    "chapters": 4,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "1ts",
+    "name": "1 Thessalonians",
+    "slug": "1-tessalonicenses",
+    "chapters": 5,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "2ts",
+    "name": "2 Thessalonians",
+    "slug": "2-tessalonicenses",
+    "chapters": 3,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "1tm",
+    "name": "1 Timothy",
+    "slug": "1-timoteo",
+    "chapters": 6,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "2tm",
+    "name": "2 Timothy",
+    "slug": "2-timoteo",
+    "chapters": 4,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "tt",
+    "name": "Titus",
+    "slug": "tito",
+    "chapters": 3,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "fm",
+    "name": "Philemon",
+    "slug": "filemom",
+    "chapters": 1,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "hb",
+    "name": "Hebrews",
+    "slug": "hebreus",
+    "chapters": 13,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "tg",
+    "name": "James",
+    "slug": "tiago",
+    "chapters": 5,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "1pe",
+    "name": "1 Peter",
+    "slug": "1-pedro",
+    "chapters": 5,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "2pe",
+    "name": "2 Peter",
+    "slug": "2-pedro",
+    "chapters": 3,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "1jo",
+    "name": "1 John",
+    "slug": "1-joao",
+    "chapters": 5,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "2jo",
+    "name": "2 John",
+    "slug": "2-joao",
+    "chapters": 1,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "3jo",
+    "name": "3 John",
+    "slug": "3-joao",
+    "chapters": 1,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "jd",
+    "name": "Jude",
+    "slug": "judas",
+    "chapters": 1,
+    "testament": "NT"
+  },
+  {
+    "abbrev": "ap",
+    "name": "Revelation",
+    "slug": "apocalipse",
+    "chapters": 22,
+    "testament": "NT"
+  }
+]

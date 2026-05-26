@@ -1,10 +1,8 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { useScrollReveal } from "./useScrollReveal";
-import { useParallax } from "./useParallax";
 
 const PLANS = [
   { title: "Ansiedade & Fé", meta: "21 DIAS · IA PERSONALIZADO" },
@@ -14,21 +12,13 @@ const PLANS = [
 
 export default function ShowcasePlans() {
   useScrollReveal();
-  const mockupRef = useParallax<HTMLDivElement>(0.08, "rotate(3deg)");
-  const [useImage, setUseImage] = useState(false);
-
-  useEffect(() => {
-    fetch("/landing/showcase-plans.png", { method: "HEAD" })
-      .then((r) => setUseImage(r.ok))
-      .catch(() => setUseImage(false));
-  }, []);
 
   return (
     <section
       id="planos"
       className="section-y bg-paper border-b border-hairline"
     >
-      <div className="container-page grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+      <div className="container-page grid lg:grid-cols-[0.55fr_1.45fr] gap-10 lg:gap-14 items-center">
         <div className="relative">
           <span
             aria-hidden
@@ -80,71 +70,15 @@ export default function ShowcasePlans() {
           </div>
         </div>
 
-        <div className="fade-up relative" aria-hidden>
-          {!useImage && (
-            <div
-              className="absolute inset-0 blur-3xl opacity-25"
-              style={{
-                background:
-                  "radial-gradient(circle, rgba(232,213,160,0.5) 0%, transparent 65%)",
-              }}
-            />
-          )}
-          {useImage ? (
-            <div
-              ref={mockupRef}
-              className="relative mx-auto w-full max-w-[640px]"
-              style={{ transform: "rotate(2deg)" }}
-            >
-              <div
-                className="float-y"
-                style={{ willChange: "transform" }}
-              >
-                <Image
-                  src="/landing/showcase-plans.png"
-                  alt="AI Bible — celular pedestal mostrando plano de leitura"
-                  width={1536}
-                  height={1024}
-                  className="w-full h-auto"
-                />
-              </div>
-            </div>
-          ) : (
-          <div
-            ref={mockupRef}
-            className="relative mx-auto max-w-[360px] aspect-[9/16] rounded-[32px] border border-hairline bg-white shadow-mockup overflow-hidden"
-            style={{ transform: "rotate(3deg)" }}
-          >
-            <div className="px-5 pt-6">
-              <div className="font-mono text-[9px] uppercase tracking-widest text-gold-dark mb-2">
-                ✦ SEU PLANO
-              </div>
-              <div className="font-serif text-2xl leading-tight mb-1">
-                Ansiedade & Fé
-              </div>
-              <div className="font-mono text-[10px] uppercase tracking-widest text-ink-mute">
-                Dia 7 de 21
-              </div>
-              <div className="mt-4 h-1 rounded-full bg-paper-warm overflow-hidden">
-                <div className="h-full bg-gold" style={{ width: "33%" }} />
-              </div>
-              <div className="mt-6 space-y-3">
-                {[
-                  "Salmo 23 — O Senhor é meu pastor",
-                  "Filipenses 4:6-7 — Paz que excede",
-                  "Mateus 6:25-34 — Não vos inquieteis",
-                ].map((t, i) => (
-                  <div
-                    key={i}
-                    className="rounded-xl border border-hairline px-4 py-3 text-xs"
-                  >
-                    {t}
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-          )}
+        <div className="fade-up relative">
+          <Image
+            src="/landing/showcase-plans.png"
+            alt="AI Bible — planos de leitura"
+            width={1200}
+            height={1200}
+            sizes="(max-width: 1024px) 100vw, 60vw"
+            className="w-full h-auto"
+          />
         </div>
       </div>
     </section>

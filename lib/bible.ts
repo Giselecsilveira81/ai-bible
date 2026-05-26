@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
+import { fetchBollsChapter } from "@/lib/bolls";
 
 export type Testament = "AT" | "NT";
 
@@ -9,6 +10,7 @@ export type BookIndex = {
   slug: string;
   chapters: number;
   testament: Testament;
+  bollsBookId?: number;
 };
 
 export type Version = {
@@ -17,6 +19,8 @@ export type Version = {
   abbr: string;
   lang: string;
   group: string;
+  remote?: boolean;
+  bollsId?: string;
 };
 
 export type Book = {
@@ -83,6 +87,17 @@ export async function loadChapter(
   abbrev: string,
   chapter: number,
 ): Promise<string[] | null> {
+  // Versão remota: busca via bolls.life
+  const versions = await getVersions();
+  const version = versions.find((v) => v.id === versionId);
+  if (version?.remote && version.bollsId) {
+    const idx = await getIndex(versionId);
+    const book = idx.find((b) => b.abbrev === abbrev);
+    if (!book?.bollsBookId) return null;
+    return fetchBollsChapter(version.bollsId, book.bollsBookId, chapter);
+  }
+
+  // Versão local: lê arquivo JSON
   const book = await loadBook(versionId, abbrev);
   if (!book) return null;
   return book.chapters[chapter - 1] ?? null;

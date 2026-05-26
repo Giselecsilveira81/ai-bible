@@ -1,0 +1,530 @@
+[
+  {
+    "abbrev": "gn",
+    "name": "Кни́га пе́рваѧ мѡѷсе́ова Бытїѐ",
+    "slug": "genesis",
+    "chapters": 50,
+    "testament": "AT",
+    "bollsBookId": 1
+  },
+  {
+    "abbrev": "ex",
+    "name": "Кни́га втора́ѧ мѡѷсе́ова И҆схо́дъ",
+    "slug": "exodo",
+    "chapters": 40,
+    "testament": "AT",
+    "bollsBookId": 2
+  },
+  {
+    "abbrev": "lv",
+    "name": "Кни́га тре́тїѧ мѡѷсе́ова Леѵі́тъ",
+    "slug": "levitico",
+    "chapters": 27,
+    "testament": "AT",
+    "bollsBookId": 3
+  },
+  {
+    "abbrev": "nm",
+    "name": "Кни́га четве́ртаѧ мѡѷсе́ова Чи́сла",
+    "slug": "numeros",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 4
+  },
+  {
+    "abbrev": "dt",
+    "name": "Кни́га пѧ́таѧ мѡѷсе́ова Второзако́нїе",
+    "slug": "deuteronomio",
+    "chapters": 34,
+    "testament": "AT",
+    "bollsBookId": 5
+  },
+  {
+    "abbrev": "js",
+    "name": "Кни́га І҆исꙋ́са наѵи́на",
+    "slug": "josue",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 6
+  },
+  {
+    "abbrev": "jz",
+    "name": "Кни́га Сꙋді́й і҆сра́илевыхъ",
+    "slug": "juizes",
+    "chapters": 21,
+    "testament": "AT",
+    "bollsBookId": 7
+  },
+  {
+    "abbrev": "rt",
+    "name": "Кни́га Рꙋ́ѳь",
+    "slug": "rute",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 8
+  },
+  {
+    "abbrev": "1sm",
+    "name": "Кни́га пе́рваѧ Ца́рствъ",
+    "slug": "1-samuel",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 9
+  },
+  {
+    "abbrev": "2sm",
+    "name": "Кни́га втора́ѧ Ца́рствъ",
+    "slug": "2-samuel",
+    "chapters": 24,
+    "testament": "AT",
+    "bollsBookId": 10
+  },
+  {
+    "abbrev": "1rs",
+    "name": "Кни́га тре́тїѧ Ца́рствъ",
+    "slug": "1-reis",
+    "chapters": 22,
+    "testament": "AT",
+    "bollsBookId": 11
+  },
+  {
+    "abbrev": "2rs",
+    "name": "Кни́га четве́ртаѧ Ца́рствъ",
+    "slug": "2-reis",
+    "chapters": 25,
+    "testament": "AT",
+    "bollsBookId": 12
+  },
+  {
+    "abbrev": "1cr",
+    "name": "Кни́га пе́рваѧ Паралїпоме́нѡнъ",
+    "slug": "1-cronicas",
+    "chapters": 29,
+    "testament": "AT",
+    "bollsBookId": 13
+  },
+  {
+    "abbrev": "2cr",
+    "name": "Кни́га втора́ѧ Паралїпоме́нѡнъ",
+    "slug": "2-cronicas",
+    "chapters": 36,
+    "testament": "AT",
+    "bollsBookId": 14
+  },
+  {
+    "abbrev": "ed",
+    "name": "Кни́га пе́рваѧ Е҆́здры",
+    "slug": "esdras",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 15
+  },
+  {
+    "abbrev": "ne",
+    "name": "Кни́га Неемі́и",
+    "slug": "neemias",
+    "chapters": 13,
+    "testament": "AT",
+    "bollsBookId": 16
+  },
+  {
+    "abbrev": "et",
+    "name": "Кни́га Е҆сѳи́рь",
+    "slug": "ester",
+    "chapters": 10,
+    "testament": "AT",
+    "bollsBookId": 17
+  },
+  {
+    "abbrev": "jó",
+    "name": "Кни́га І҆́ѡва",
+    "slug": "jo",
+    "chapters": 42,
+    "testament": "AT",
+    "bollsBookId": 18
+  },
+  {
+    "abbrev": "sl",
+    "name": "Ѱалти́рь",
+    "slug": "salmos",
+    "chapters": 151,
+    "testament": "AT",
+    "bollsBookId": 19
+  },
+  {
+    "abbrev": "pv",
+    "name": "Кни́га При́тчей соломѡ́нихъ",
+    "slug": "proverbios",
+    "chapters": 31,
+    "testament": "AT",
+    "bollsBookId": 20
+  },
+  {
+    "abbrev": "ec",
+    "name": "Кни́га Е҆кклесїа́ста, си́рѣчь проповѣ́дника царѧ̀ соломѡ́на",
+    "slug": "eclesiastes",
+    "chapters": 12,
+    "testament": "AT",
+    "bollsBookId": 21
+  },
+  {
+    "abbrev": "ct",
+    "name": "Кни́га Пѣ́снь пѣ́сней царѧ̀ соломѡ́на",
+    "slug": "canticos",
+    "chapters": 8,
+    "testament": "AT",
+    "bollsBookId": 22
+  },
+  {
+    "abbrev": "is",
+    "name": "Кни́га Проро́ка и҆са́їи",
+    "slug": "isaias",
+    "chapters": 66,
+    "testament": "AT",
+    "bollsBookId": 23
+  },
+  {
+    "abbrev": "jr",
+    "name": "Кни́га Проро́ка і҆еремі́и",
+    "slug": "jeremias",
+    "chapters": 52,
+    "testament": "AT",
+    "bollsBookId": 24
+  },
+  {
+    "abbrev": "lm",
+    "name": "Пла́чь і҆еремі́евъ",
+    "slug": "lamentacoes-de-jeremias",
+    "chapters": 5,
+    "testament": "AT",
+    "bollsBookId": 25
+  },
+  {
+    "abbrev": "ez",
+    "name": "Кни́га Проро́ка і҆езекі́илѧ",
+    "slug": "ezequiel",
+    "chapters": 48,
+    "testament": "AT",
+    "bollsBookId": 26
+  },
+  {
+    "abbrev": "dn",
+    "name": "Кни́га Проро́ка данїи́ла",
+    "slug": "daniel",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 27
+  },
+  {
+    "abbrev": "os",
+    "name": "Кни́га Проро́ка ѡ҃сі́и",
+    "slug": "oseias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 28
+  },
+  {
+    "abbrev": "jl",
+    "name": "Кни́га Проро́ка і҆ѡи́лѧ",
+    "slug": "joel",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 29
+  },
+  {
+    "abbrev": "am",
+    "name": "Кни́га Проро́ка а҆мѡ́са",
+    "slug": "amos",
+    "chapters": 9,
+    "testament": "AT",
+    "bollsBookId": 30
+  },
+  {
+    "abbrev": "ob",
+    "name": "Кни́га Проро́ка а҆вді́а",
+    "slug": "obadias",
+    "chapters": 1,
+    "testament": "AT",
+    "bollsBookId": 31
+  },
+  {
+    "abbrev": "jn",
+    "name": "Кни́га Проро́ка і҆ѡ́ны",
+    "slug": "jonas",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 32
+  },
+  {
+    "abbrev": "mq",
+    "name": "Кни́га Проро́ка мїхе́а",
+    "slug": "miqueias",
+    "chapters": 7,
+    "testament": "AT",
+    "bollsBookId": 33
+  },
+  {
+    "abbrev": "na",
+    "name": "Кни́га Проро́ка наꙋ́ма",
+    "slug": "naum",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 34
+  },
+  {
+    "abbrev": "hc",
+    "name": "Кни́га Проро́ка а҆ввакꙋ́ма",
+    "slug": "habacuque",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 35
+  },
+  {
+    "abbrev": "sf",
+    "name": "Кни́га Проро́ка софо́нїи",
+    "slug": "sofonias",
+    "chapters": 3,
+    "testament": "AT",
+    "bollsBookId": 36
+  },
+  {
+    "abbrev": "ag",
+    "name": "Кни́га Проро́ка а҆гге́а",
+    "slug": "ageu",
+    "chapters": 2,
+    "testament": "AT",
+    "bollsBookId": 37
+  },
+  {
+    "abbrev": "zc",
+    "name": "Кни́га Проро́ка заха́рїи",
+    "slug": "zacarias",
+    "chapters": 14,
+    "testament": "AT",
+    "bollsBookId": 38
+  },
+  {
+    "abbrev": "ml",
+    "name": "Кни́га Проро́ка малахі́и",
+    "slug": "malaquias",
+    "chapters": 4,
+    "testament": "AT",
+    "bollsBookId": 39
+  },
+  {
+    "abbrev": "mt",
+    "name": "Гдⷭ҇а на́шегѡ І҆и҃са хрⷭ҇та̀ Ѿ матѳе́а Ст҃о́е бл҃говѣствова́нїе",
+    "slug": "mateus",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 40
+  },
+  {
+    "abbrev": "mc",
+    "name": "Ѿ ма́рка Ст҃о́е бл҃говѣствова́нїе",
+    "slug": "marcos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 41
+  },
+  {
+    "abbrev": "lc",
+    "name": "Ѿ лꙋкѝ Ст҃о́е бл҃говѣствова́нїе",
+    "slug": "lucas",
+    "chapters": 24,
+    "testament": "NT",
+    "bollsBookId": 42
+  },
+  {
+    "abbrev": "jo",
+    "name": "Ѿ і҆ѡа́нна Ст҃о́е бл҃говѣствова́нїе",
+    "slug": "joao",
+    "chapters": 21,
+    "testament": "NT",
+    "bollsBookId": 43
+  },
+  {
+    "abbrev": "atos",
+    "name": "Дѣѧ̑нїѧ ст҃ы́хъ а҆пⷭ҇лъ, Спи̑сана ст҃ы́мъ а҆пⷭ҇ломъ и҆ є҆ѵⷢ҇лі́стомъ лꙋко́ю",
+    "slug": "atos",
+    "chapters": 28,
+    "testament": "NT",
+    "bollsBookId": 44
+  },
+  {
+    "abbrev": "rm",
+    "name": "Посла́нїе къ ри́млѧнѡмъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "romanos",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 45
+  },
+  {
+    "abbrev": "1co",
+    "name": "Пе́рвое посла́нїе къ корі́нѳѧнѡмъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "1-corintios",
+    "chapters": 16,
+    "testament": "NT",
+    "bollsBookId": 46
+  },
+  {
+    "abbrev": "2co",
+    "name": "Второ́е посла́нїе къ корі́нѳѧнѡмъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "2-corintios",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 47
+  },
+  {
+    "abbrev": "gl",
+    "name": "Посла́нїе къ гала́тѡмъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "galatas",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 48
+  },
+  {
+    "abbrev": "ef",
+    "name": "Посла́нїе ко є҆фесе́ємъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "efesios",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 49
+  },
+  {
+    "abbrev": "fp",
+    "name": "Посла́нїе къ фїлїпписі́ємъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "filipenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 50
+  },
+  {
+    "abbrev": "cl",
+    "name": "Посла́нїе къ колосса́ємъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "colossenses",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 51
+  },
+  {
+    "abbrev": "1ts",
+    "name": "Посла́нїе къ колосса́ємъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "1-tessalonicenses",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 52
+  },
+  {
+    "abbrev": "2ts",
+    "name": "Посла́нїе второ́е къ солꙋ́нѧнѡмъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "2-tessalonicenses",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 53
+  },
+  {
+    "abbrev": "1tm",
+    "name": "Посла́нїе пе́рвое къ тїмоѳе́ю Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "1-timoteo",
+    "chapters": 6,
+    "testament": "NT",
+    "bollsBookId": 54
+  },
+  {
+    "abbrev": "2tm",
+    "name": "Посла́нїе второ́е къ тїмоѳе́ю Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "2-timoteo",
+    "chapters": 4,
+    "testament": "NT",
+    "bollsBookId": 55
+  },
+  {
+    "abbrev": "tt",
+    "name": "Посла́нїе къ ті́тꙋ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "tito",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 56
+  },
+  {
+    "abbrev": "fm",
+    "name": "Посла́нїе къ фїлимо́нꙋ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "filemom",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 57
+  },
+  {
+    "abbrev": "hb",
+    "name": "Посла́нїе ко є҆вре́ємъ Ст҃а́гѡ а҆пⷭ҇ла па́ѵла",
+    "slug": "hebreus",
+    "chapters": 13,
+    "testament": "NT",
+    "bollsBookId": 58
+  },
+  {
+    "abbrev": "tg",
+    "name": "Собо́рное посла́нїе і҆а́кѡвле",
+    "slug": "tiago",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 59
+  },
+  {
+    "abbrev": "1pe",
+    "name": "Собо́рное посла́нїе пе́рвое Ст҃а́гѡ а҆пⷭ҇ла петра̀",
+    "slug": "1-pedro",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 60
+  },
+  {
+    "abbrev": "2pe",
+    "name": "Собо́рное посла́нїе второ́е Тогѡ́жде ст҃а́гѡ а҆пⷭ҇ла петра̀",
+    "slug": "2-pedro",
+    "chapters": 3,
+    "testament": "NT",
+    "bollsBookId": 61
+  },
+  {
+    "abbrev": "1jo",
+    "name": "Собо́рное посла́нїе пе́рвое Ст҃а́гѡ а҆пⷭ҇ла і҆ѡа́нна бг҃осло́ва",
+    "slug": "1-joao",
+    "chapters": 5,
+    "testament": "NT",
+    "bollsBookId": 62
+  },
+  {
+    "abbrev": "2jo",
+    "name": "Собо́рное посла́нїе второ́е Ст҃а́гѡ а҆пⷭ҇ла і҆ѡа́нна бг҃осло́ва",
+    "slug": "2-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 63
+  },
+  {
+    "abbrev": "3jo",
+    "name": "Собо́рное посла́нїе тре́тїе Ст҃а́гѡ а҆пⷭ҇ла і҆ѡа́нна бг҃осло́ва",
+    "slug": "3-joao",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 64
+  },
+  {
+    "abbrev": "jd",
+    "name": "Собо́рное посла́нїе і҆ꙋ́дино",
+    "slug": "judas",
+    "chapters": 1,
+    "testament": "NT",
+    "bollsBookId": 65
+  },
+  {
+    "abbrev": "ap",
+    "name": "А҆пока́лѷѱїсъ Ст҃а́гѡ і҆ѡа́нна ѳеоло́га",
+    "slug": "apocalipse",
+    "chapters": 22,
+    "testament": "NT",
+    "bollsBookId": 66
+  }
+]

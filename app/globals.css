@@ -4,16 +4,16 @@
 
 @layer base {
   :root {
-    --bg: 255 255 255;
-    --bg-soft: 248 246 241;
-    --bg-warm: 242 239 232;
-    --fg: 10 10 10;
-    --fg-soft: 28 28 28;
-    --fg-mute: 107 107 107;
-    --gold: 201 169 97;
-    --gold-dark: 139 111 42;
-    --hairline: rgba(10, 10, 10, 0.08);
-    --hairline-gold: rgba(201, 169, 97, 0.25);
+    --bg: 245 240 232;
+    --bg-soft: 239 231 216;
+    --bg-warm: 232 223 208;
+    --fg: 26 26 26;
+    --fg-soft: 42 42 42;
+    --fg-mute: 139 125 107;
+    --gold: 184 150 12;
+    --gold-dark: 140 111 8;
+    --hairline: rgba(26, 26, 26, 0.08);
+    --hairline-gold: rgba(184, 150, 12, 0.28);
     --reader-fs: 18px;
   }
 
@@ -45,11 +45,31 @@
   }
 
   body {
-    background-color: rgb(var(--bg));
+    background:
+      radial-gradient(
+        ellipse at 50% 30%,
+        #F5F0E8 0%,
+        #EFE7D8 45%,
+        #E8DFD0 100%
+      );
+    background-attachment: fixed;
     color: rgb(var(--fg));
     font-family: var(--font-inter), Inter, system-ui, sans-serif;
     font-size: 16px;
     line-height: 1.5;
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background:
+      radial-gradient(
+        ellipse 80% 50% at 50% 0%,
+        rgba(184, 150, 12, 0.06) 0%,
+        transparent 70%
+      );
   }
 
   ::selection {
@@ -102,8 +122,15 @@
   }
 
   .glass-card {
-    @apply rounded-2xl border border-hairline backdrop-blur-xl;
     background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 16px;
+    box-shadow:
+      0 14px 36px rgba(26, 26, 26, 0.06),
+      0 4px 8px rgba(184, 150, 12, 0.08),
+      inset 0 1px 0 rgba(255, 255, 255, 0.85);
   }
   .glass-card-dark {
     @apply rounded-2xl border border-white/10 backdrop-blur-xl;
